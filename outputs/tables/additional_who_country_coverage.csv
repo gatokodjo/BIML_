@@ -1,0 +1,30 @@
+Country,CountryCode,treatment,confirmed,suspected,irs
+Angola,AGO,7,10,10,3
+Benin,BEN,7,10,10,7
+Burkina Faso,BFA,7,10,10,5
+Burundi,BDI,7,10,10,0
+Cameroon,CMR,6,10,10,0
+Central African Republic,CAF,6,10,10,0
+Chad,TCD,6,10,10,4
+Congo,COG,6,0,10,0
+Côte d'Ivoire,CIV,7,10,10,2
+Democratic Republic of the Congo,COD,7,10,10,4
+Equatorial Guinea,GNQ,2,8,8,8
+Gabon,GAB,6,10,10,0
+Gambia,GMB,6,10,10,9
+Ghana,GHA,7,10,10,10
+Guinea,GIN,6,10,10,0
+Kenya,KEN,7,10,10,8
+Liberia,LBR,7,8,8,0
+Madagascar,MDG,6,10,10,9
+Malawi,MWI,5,10,10,4
+Mali,MLI,7,10,10,8
+Mozambique,MOZ,7,10,10,10
+Nigeria,NGA,7,10,10,1
+Rwanda,RWA,6,10,10,10
+Senegal,SEN,7,10,10,7
+Sierra Leone,SLE,7,10,10,4
+Togo,TGO,7,10,10,0
+Uganda,UGA,7,10,10,10
+United Republic of Tanzania,TZA,6,10,10,10
+Zimbabwe,ZWE,4,10,10,0

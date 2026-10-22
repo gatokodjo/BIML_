@@ -1,0 +1,9 @@
+design,partition,n,countries,year_min,year_max
+Temporal_70_30,train,256,32,2013,2020
+Temporal_70_30,test,128,32,2021,2024
+Temporal_80_20,train,288,32,2013,2021
+Temporal_80_20,test,96,32,2022,2024
+Geographic_80_20,train,300,25,2013,2024
+Geographic_80_20,test,84,7,2013,2024
+Geographic_70_30,train,264,22,2013,2024
+Geographic_70_30,test,120,10,2013,2024

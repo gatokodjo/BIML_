@@ -1,0 +1,43 @@
+subset,feature,target,n,spearman
+All countries,ERA5_T2M_C_mean,incidence_anomaly,256,-0.16172393568322269
+All countries,ERA5_T2M_C_mean,Incidence_change,256,0.036178915433638235
+All countries,Rainfall_annual_total_mm,incidence_anomaly,256,-0.16174038681620506
+All countries,Rainfall_annual_total_mm,Incidence_change,256,-0.0900242082084803
+All countries,RH_pct_mean,incidence_anomaly,256,-0.002260957885099565
+All countries,RH_pct_mean,Incidence_change,256,-0.08848674199143032
+All countries,NDVI_mean,incidence_anomaly,256,-0.05253991187914854
+All countries,NDVI_mean,Incidence_change,256,-0.10173491564679195
+All countries,NDWI_mean,incidence_anomaly,256,0.0864728770885786
+All countries,NDWI_mean,Incidence_change,256,0.15811976357568658
+All countries,MODIS_Night_LST_C_mean,incidence_anomaly,256,-0.18847562371252
+All countries,MODIS_Night_LST_C_mean,Incidence_change,256,-0.13604769971951677
+All countries,Landsat_LST_C_mean,incidence_anomaly,256,-0.035989356832227044
+All countries,Landsat_LST_C_mean,Incidence_change,256,-0.010679292558113436
+Without Burkina Faso,ERA5_T2M_C_mean,incidence_anomaly,248,-0.16907829830488205
+Without Burkina Faso,ERA5_T2M_C_mean,Incidence_change,248,0.0307636569906358
+Without Burkina Faso,Rainfall_annual_total_mm,incidence_anomaly,248,-0.1459354461072709
+Without Burkina Faso,Rainfall_annual_total_mm,Incidence_change,248,-0.07788175473807338
+Without Burkina Faso,RH_pct_mean,incidence_anomaly,248,-0.008120768302411683
+Without Burkina Faso,RH_pct_mean,Incidence_change,248,-0.07542790022355914
+Without Burkina Faso,NDVI_mean,incidence_anomaly,248,-0.06750339479899484
+Without Burkina Faso,NDVI_mean,Incidence_change,248,-0.0947601669942873
+Without Burkina Faso,NDWI_mean,incidence_anomaly,248,0.10404999913458195
+Without Burkina Faso,NDWI_mean,Incidence_change,248,0.15211931130005504
+Without Burkina Faso,MODIS_Night_LST_C_mean,incidence_anomaly,248,-0.1690578429691077
+Without Burkina Faso,MODIS_Night_LST_C_mean,Incidence_change,248,-0.13260255306294227
+Without Burkina Faso,Landsat_LST_C_mean,incidence_anomaly,248,-0.05417989051674898
+Without Burkina Faso,Landsat_LST_C_mean,Incidence_change,248,0.0005739297429747155
+Without BF 2017-2018,ERA5_T2M_C_mean,incidence_anomaly,254,-0.16357558304514422
+Without BF 2017-2018,ERA5_T2M_C_mean,Incidence_change,254,0.03479763351047819
+Without BF 2017-2018,Rainfall_annual_total_mm,incidence_anomaly,254,-0.1622471975936744
+Without BF 2017-2018,Rainfall_annual_total_mm,Incidence_change,254,-0.07555286558624139
+Without BF 2017-2018,RH_pct_mean,incidence_anomaly,254,-0.005402515803869087
+Without BF 2017-2018,RH_pct_mean,Incidence_change,254,-0.0751519332262766
+Without BF 2017-2018,NDVI_mean,incidence_anomaly,254,-0.051626521574363766
+Without BF 2017-2018,NDVI_mean,Incidence_change,254,-0.09234881920843754
+Without BF 2017-2018,NDWI_mean,incidence_anomaly,254,0.08811171912043893
+Without BF 2017-2018,NDWI_mean,Incidence_change,254,0.14904065490745866
+Without BF 2017-2018,MODIS_Night_LST_C_mean,incidence_anomaly,254,-0.18119682842481238
+Without BF 2017-2018,MODIS_Night_LST_C_mean,Incidence_change,254,-0.12581916522588163
+Without BF 2017-2018,Landsat_LST_C_mean,incidence_anomaly,254,-0.025653437124126047
+Without BF 2017-2018,Landsat_LST_C_mean,Incidence_change,254,-0.0027713762854552383

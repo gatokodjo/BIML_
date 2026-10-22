@@ -1,0 +1,291 @@
+Country,Year,months,supported_months,below_months,above_months,all_months_supported
+Angola,2015,12,12,0,0,True
+Angola,2016,12,12,0,0,True
+Angola,2017,12,12,0,0,True
+Angola,2018,12,12,0,0,True
+Angola,2019,12,12,0,0,True
+Angola,2020,12,12,0,0,True
+Angola,2021,12,12,0,0,True
+Angola,2022,12,12,0,0,True
+Angola,2023,12,12,0,0,True
+Angola,2024,12,12,0,0,True
+Benin,2015,12,10,0,2,False
+Benin,2016,12,10,0,2,False
+Benin,2017,12,10,0,2,False
+Benin,2018,12,10,0,2,False
+Benin,2019,12,10,0,2,False
+Benin,2020,12,10,0,2,False
+Benin,2021,12,9,0,3,False
+Benin,2022,12,10,0,2,False
+Benin,2023,12,9,0,3,False
+Benin,2024,12,9,0,3,False
+Burkina Faso,2015,12,8,0,4,False
+Burkina Faso,2016,12,9,0,3,False
+Burkina Faso,2017,12,9,0,3,False
+Burkina Faso,2018,12,8,0,4,False
+Burkina Faso,2019,12,8,0,4,False
+Burkina Faso,2020,12,8,0,4,False
+Burkina Faso,2021,12,8,0,4,False
+Burkina Faso,2022,12,9,0,3,False
+Burkina Faso,2023,12,8,0,4,False
+Burkina Faso,2024,12,8,0,4,False
+Burundi,2015,12,12,0,0,True
+Burundi,2016,12,12,0,0,True
+Burundi,2017,12,12,0,0,True
+Burundi,2018,12,12,0,0,True
+Burundi,2019,12,12,0,0,True
+Burundi,2020,12,12,0,0,True
+Burundi,2021,12,12,0,0,True
+Burundi,2022,12,12,0,0,True
+Burundi,2023,12,12,0,0,True
+Burundi,2024,12,12,0,0,True
+Cameroon,2015,12,12,0,0,True
+Cameroon,2016,12,12,0,0,True
+Cameroon,2017,12,12,0,0,True
+Cameroon,2018,12,12,0,0,True
+Cameroon,2019,12,12,0,0,True
+Cameroon,2020,12,12,0,0,True
+Cameroon,2021,12,12,0,0,True
+Cameroon,2022,12,12,0,0,True
+Cameroon,2023,12,12,0,0,True
+Cameroon,2024,12,12,0,0,True
+Central African Republic,2015,12,12,0,0,True
+Central African Republic,2016,12,11,0,1,False
+Central African Republic,2017,12,12,0,0,True
+Central African Republic,2018,12,12,0,0,True
+Central African Republic,2019,12,11,0,1,False
+Central African Republic,2020,12,11,0,1,False
+Central African Republic,2021,12,12,0,0,True
+Central African Republic,2022,12,11,0,1,False
+Central African Republic,2023,12,12,0,0,True
+Central African Republic,2024,12,9,0,3,False
+Chad,2015,12,9,0,3,False
+Chad,2016,12,9,0,3,False
+Chad,2017,12,8,0,4,False
+Chad,2018,12,9,0,3,False
+Chad,2019,12,8,0,4,False
+Chad,2020,12,8,0,4,False
+Chad,2021,12,8,0,4,False
+Chad,2022,12,9,0,3,False
+Chad,2023,12,6,0,6,False
+Chad,2024,12,8,0,4,False
+Congo,2015,12,12,0,0,True
+Congo,2016,12,12,0,0,True
+Congo,2017,12,12,0,0,True
+Congo,2018,12,12,0,0,True
+Congo,2019,12,12,0,0,True
+Congo,2020,12,12,0,0,True
+Congo,2021,12,12,0,0,True
+Congo,2022,12,12,0,0,True
+Congo,2023,12,12,0,0,True
+Congo,2024,12,12,0,0,True
+Côte d'Ivoire,2015,12,12,0,0,True
+Côte d'Ivoire,2016,12,12,0,0,True
+Côte d'Ivoire,2017,12,12,0,0,True
+Côte d'Ivoire,2018,12,12,0,0,True
+Côte d'Ivoire,2019,12,12,0,0,True
+Côte d'Ivoire,2020,12,12,0,0,True
+Côte d'Ivoire,2021,12,12,0,0,True
+Côte d'Ivoire,2022,12,12,0,0,True
+Côte d'Ivoire,2023,12,12,0,0,True
+Côte d'Ivoire,2024,12,12,0,0,True
+Democratic Republic of the Congo,2015,12,12,0,0,True
+Democratic Republic of the Congo,2016,12,12,0,0,True
+Democratic Republic of the Congo,2017,12,12,0,0,True
+Democratic Republic of the Congo,2018,12,12,0,0,True
+Democratic Republic of the Congo,2019,12,12,0,0,True
+Democratic Republic of the Congo,2020,12,12,0,0,True
+Democratic Republic of the Congo,2021,12,12,0,0,True
+Democratic Republic of the Congo,2022,12,12,0,0,True
+Democratic Republic of the Congo,2023,12,12,0,0,True
+Democratic Republic of the Congo,2024,12,12,0,0,True
+Equatorial Guinea,2015,12,12,0,0,True
+Equatorial Guinea,2016,12,12,0,0,True
+Equatorial Guinea,2017,12,12,0,0,True
+Equatorial Guinea,2018,12,12,0,0,True
+Equatorial Guinea,2019,12,12,0,0,True
+Equatorial Guinea,2020,12,12,0,0,True
+Equatorial Guinea,2021,12,12,0,0,True
+Equatorial Guinea,2022,12,12,0,0,True
+Equatorial Guinea,2023,12,12,0,0,True
+Equatorial Guinea,2024,12,12,0,0,True
+Gabon,2015,12,12,0,0,True
+Gabon,2016,12,12,0,0,True
+Gabon,2017,12,12,0,0,True
+Gabon,2018,12,12,0,0,True
+Gabon,2019,12,12,0,0,True
+Gabon,2020,12,12,0,0,True
+Gabon,2021,12,12,0,0,True
+Gabon,2022,12,12,0,0,True
+Gabon,2023,12,12,0,0,True
+Gabon,2024,12,12,0,0,True
+Gambia,2015,12,12,0,0,True
+Gambia,2016,12,12,0,0,True
+Gambia,2017,12,11,0,1,False
+Gambia,2018,12,12,0,0,True
+Gambia,2019,12,11,0,1,False
+Gambia,2020,12,10,0,2,False
+Gambia,2021,12,12,0,0,True
+Gambia,2022,12,12,0,0,True
+Gambia,2023,12,9,0,3,False
+Gambia,2024,12,10,0,2,False
+Ghana,2015,12,12,0,0,True
+Ghana,2016,12,12,0,0,True
+Ghana,2017,12,11,0,1,False
+Ghana,2018,12,12,0,0,True
+Ghana,2019,12,12,0,0,True
+Ghana,2020,12,12,0,0,True
+Ghana,2021,12,11,0,1,False
+Ghana,2022,12,12,0,0,True
+Ghana,2023,12,12,0,0,True
+Ghana,2024,12,9,0,3,False
+Guinea,2015,12,12,0,0,True
+Guinea,2016,12,12,0,0,True
+Guinea,2017,12,12,0,0,True
+Guinea,2018,12,12,0,0,True
+Guinea,2019,12,12,0,0,True
+Guinea,2020,12,12,0,0,True
+Guinea,2021,12,12,0,0,True
+Guinea,2022,12,12,0,0,True
+Guinea,2023,12,12,0,0,True
+Guinea,2024,12,10,0,2,False
+Kenya,2015,12,12,0,0,True
+Kenya,2016,12,12,0,0,True
+Kenya,2017,12,12,0,0,True
+Kenya,2018,12,12,0,0,True
+Kenya,2019,12,12,0,0,True
+Kenya,2020,12,12,0,0,True
+Kenya,2021,12,12,0,0,True
+Kenya,2022,12,12,0,0,True
+Kenya,2023,12,12,0,0,True
+Kenya,2024,12,12,0,0,True
+Liberia,2015,12,12,0,0,True
+Liberia,2016,12,12,0,0,True
+Liberia,2017,12,12,0,0,True
+Liberia,2018,12,12,0,0,True
+Liberia,2019,12,12,0,0,True
+Liberia,2020,12,12,0,0,True
+Liberia,2021,12,12,0,0,True
+Liberia,2022,12,12,0,0,True
+Liberia,2023,12,12,0,0,True
+Liberia,2024,12,12,0,0,True
+Madagascar,2015,12,12,0,0,True
+Madagascar,2016,12,12,0,0,True
+Madagascar,2017,12,12,0,0,True
+Madagascar,2018,12,12,0,0,True
+Madagascar,2019,12,12,0,0,True
+Madagascar,2020,12,12,0,0,True
+Madagascar,2021,12,12,0,0,True
+Madagascar,2022,12,12,0,0,True
+Madagascar,2023,12,12,0,0,True
+Madagascar,2024,12,12,0,0,True
+Malawi,2015,12,12,0,0,True
+Malawi,2016,12,12,0,0,True
+Malawi,2017,12,12,0,0,True
+Malawi,2018,12,12,0,0,True
+Malawi,2019,12,12,0,0,True
+Malawi,2020,12,12,0,0,True
+Malawi,2021,12,12,0,0,True
+Malawi,2022,12,12,0,0,True
+Malawi,2023,12,12,0,0,True
+Malawi,2024,12,12,0,0,True
+Mali,2015,12,5,0,7,False
+Mali,2016,12,5,0,7,False
+Mali,2017,12,6,0,6,False
+Mali,2018,12,5,0,7,False
+Mali,2019,12,5,0,7,False
+Mali,2020,12,6,0,6,False
+Mali,2021,12,5,0,7,False
+Mali,2022,12,6,0,6,False
+Mali,2023,12,5,0,7,False
+Mali,2024,12,5,0,7,False
+Mozambique,2015,12,12,0,0,True
+Mozambique,2016,12,12,0,0,True
+Mozambique,2017,12,12,0,0,True
+Mozambique,2018,12,12,0,0,True
+Mozambique,2019,12,12,0,0,True
+Mozambique,2020,12,12,0,0,True
+Mozambique,2021,12,12,0,0,True
+Mozambique,2022,12,12,0,0,True
+Mozambique,2023,12,12,0,0,True
+Mozambique,2024,12,12,0,0,True
+Nigeria,2015,12,11,0,1,False
+Nigeria,2016,12,10,0,2,False
+Nigeria,2017,12,11,0,1,False
+Nigeria,2018,12,11,0,1,False
+Nigeria,2019,12,10,0,2,False
+Nigeria,2020,12,10,0,2,False
+Nigeria,2021,12,10,0,2,False
+Nigeria,2022,12,11,0,1,False
+Nigeria,2023,12,10,0,2,False
+Nigeria,2024,12,9,0,3,False
+Rwanda,2015,12,12,0,0,True
+Rwanda,2016,12,12,0,0,True
+Rwanda,2017,12,12,0,0,True
+Rwanda,2018,12,12,0,0,True
+Rwanda,2019,12,12,0,0,True
+Rwanda,2020,12,12,0,0,True
+Rwanda,2021,12,12,0,0,True
+Rwanda,2022,12,12,0,0,True
+Rwanda,2023,12,12,0,0,True
+Rwanda,2024,12,12,0,0,True
+Senegal,2015,12,9,0,3,False
+Senegal,2016,12,8,0,4,False
+Senegal,2017,12,7,0,5,False
+Senegal,2018,12,8,0,4,False
+Senegal,2019,12,9,0,3,False
+Senegal,2020,12,8,0,4,False
+Senegal,2021,12,9,0,3,False
+Senegal,2022,12,10,0,2,False
+Senegal,2023,12,7,0,5,False
+Senegal,2024,12,9,0,3,False
+Sierra Leone,2015,12,12,0,0,True
+Sierra Leone,2016,12,12,0,0,True
+Sierra Leone,2017,12,12,0,0,True
+Sierra Leone,2018,12,12,0,0,True
+Sierra Leone,2019,12,12,0,0,True
+Sierra Leone,2020,12,12,0,0,True
+Sierra Leone,2021,12,12,0,0,True
+Sierra Leone,2022,12,12,0,0,True
+Sierra Leone,2023,12,12,0,0,True
+Sierra Leone,2024,12,12,0,0,True
+Togo,2015,12,12,0,0,True
+Togo,2016,12,12,0,0,True
+Togo,2017,12,11,0,1,False
+Togo,2018,12,12,0,0,True
+Togo,2019,12,12,0,0,True
+Togo,2020,12,12,0,0,True
+Togo,2021,12,12,0,0,True
+Togo,2022,12,11,0,1,False
+Togo,2023,12,12,0,0,True
+Togo,2024,12,10,0,2,False
+Uganda,2015,12,12,0,0,True
+Uganda,2016,12,12,0,0,True
+Uganda,2017,12,12,0,0,True
+Uganda,2018,12,12,0,0,True
+Uganda,2019,12,12,0,0,True
+Uganda,2020,12,12,0,0,True
+Uganda,2021,12,12,0,0,True
+Uganda,2022,12,12,0,0,True
+Uganda,2023,12,12,0,0,True
+Uganda,2024,12,12,0,0,True
+United Republic of Tanzania,2015,12,12,0,0,True
+United Republic of Tanzania,2016,12,12,0,0,True
+United Republic of Tanzania,2017,12,12,0,0,True
+United Republic of Tanzania,2018,12,12,0,0,True
+United Republic of Tanzania,2019,12,12,0,0,True
+United Republic of Tanzania,2020,12,12,0,0,True
+United Republic of Tanzania,2021,12,12,0,0,True
+United Republic of Tanzania,2022,12,12,0,0,True
+United Republic of Tanzania,2023,12,12,0,0,True
+United Republic of Tanzania,2024,12,12,0,0,True
+Zimbabwe,2015,12,11,1,0,False
+Zimbabwe,2016,12,10,2,0,False
+Zimbabwe,2017,12,10,2,0,False
+Zimbabwe,2018,12,10,2,0,False
+Zimbabwe,2019,12,11,1,0,False
+Zimbabwe,2020,12,10,2,0,False
+Zimbabwe,2021,12,10,2,0,False
+Zimbabwe,2022,12,10,2,0,False
+Zimbabwe,2023,12,11,1,0,False
+Zimbabwe,2024,12,12,0,0,True

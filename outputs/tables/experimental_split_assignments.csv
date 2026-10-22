@@ -1,0 +1,385 @@
+Country,Year,Temporal_70_30,Temporal_80_20,Geographic_80_20,Geographic_70_30
+Angola,2013,train,train,train,test
+Angola,2014,train,train,train,test
+Angola,2015,train,train,train,test
+Angola,2016,train,train,train,test
+Angola,2017,train,train,train,test
+Angola,2018,train,train,train,test
+Angola,2019,train,train,train,test
+Angola,2020,train,train,train,test
+Angola,2021,test,train,train,test
+Angola,2022,test,test,train,test
+Angola,2023,test,test,train,test
+Angola,2024,test,test,train,test
+Benin,2013,train,train,train,train
+Benin,2014,train,train,train,train
+Benin,2015,train,train,train,train
+Benin,2016,train,train,train,train
+Benin,2017,train,train,train,train
+Benin,2018,train,train,train,train
+Benin,2019,train,train,train,train
+Benin,2020,train,train,train,train
+Benin,2021,test,train,train,train
+Benin,2022,test,test,train,train
+Benin,2023,test,test,train,train
+Benin,2024,test,test,train,train
+Botswana,2013,train,train,train,train
+Botswana,2014,train,train,train,train
+Botswana,2015,train,train,train,train
+Botswana,2016,train,train,train,train
+Botswana,2017,train,train,train,train
+Botswana,2018,train,train,train,train
+Botswana,2019,train,train,train,train
+Botswana,2020,train,train,train,train
+Botswana,2021,test,train,train,train
+Botswana,2022,test,test,train,train
+Botswana,2023,test,test,train,train
+Botswana,2024,test,test,train,train
+Burkina Faso,2013,train,train,train,train
+Burkina Faso,2014,train,train,train,train
+Burkina Faso,2015,train,train,train,train
+Burkina Faso,2016,train,train,train,train
+Burkina Faso,2017,train,train,train,train
+Burkina Faso,2018,train,train,train,train
+Burkina Faso,2019,train,train,train,train
+Burkina Faso,2020,train,train,train,train
+Burkina Faso,2021,test,train,train,train
+Burkina Faso,2022,test,test,train,train
+Burkina Faso,2023,test,test,train,train
+Burkina Faso,2024,test,test,train,train
+Burundi,2013,train,train,train,train
+Burundi,2014,train,train,train,train
+Burundi,2015,train,train,train,train
+Burundi,2016,train,train,train,train
+Burundi,2017,train,train,train,train
+Burundi,2018,train,train,train,train
+Burundi,2019,train,train,train,train
+Burundi,2020,train,train,train,train
+Burundi,2021,test,train,train,train
+Burundi,2022,test,test,train,train
+Burundi,2023,test,test,train,train
+Burundi,2024,test,test,train,train
+Cameroon,2013,train,train,train,train
+Cameroon,2014,train,train,train,train
+Cameroon,2015,train,train,train,train
+Cameroon,2016,train,train,train,train
+Cameroon,2017,train,train,train,train
+Cameroon,2018,train,train,train,train
+Cameroon,2019,train,train,train,train
+Cameroon,2020,train,train,train,train
+Cameroon,2021,test,train,train,train
+Cameroon,2022,test,test,train,train
+Cameroon,2023,test,test,train,train
+Cameroon,2024,test,test,train,train
+Central African Republic,2013,train,train,train,train
+Central African Republic,2014,train,train,train,train
+Central African Republic,2015,train,train,train,train
+Central African Republic,2016,train,train,train,train
+Central African Republic,2017,train,train,train,train
+Central African Republic,2018,train,train,train,train
+Central African Republic,2019,train,train,train,train
+Central African Republic,2020,train,train,train,train
+Central African Republic,2021,test,train,train,train
+Central African Republic,2022,test,test,train,train
+Central African Republic,2023,test,test,train,train
+Central African Republic,2024,test,test,train,train
+Chad,2013,train,train,train,train
+Chad,2014,train,train,train,train
+Chad,2015,train,train,train,train
+Chad,2016,train,train,train,train
+Chad,2017,train,train,train,train
+Chad,2018,train,train,train,train
+Chad,2019,train,train,train,train
+Chad,2020,train,train,train,train
+Chad,2021,test,train,train,train
+Chad,2022,test,test,train,train
+Chad,2023,test,test,train,train
+Chad,2024,test,test,train,train
+Congo,2013,train,train,test,test
+Congo,2014,train,train,test,test
+Congo,2015,train,train,test,test
+Congo,2016,train,train,test,test
+Congo,2017,train,train,test,test
+Congo,2018,train,train,test,test
+Congo,2019,train,train,test,test
+Congo,2020,train,train,test,test
+Congo,2021,test,train,test,test
+Congo,2022,test,test,test,test
+Congo,2023,test,test,test,test
+Congo,2024,test,test,test,test
+Côte d'Ivoire,2013,train,train,test,test
+Côte d'Ivoire,2014,train,train,test,test
+Côte d'Ivoire,2015,train,train,test,test
+Côte d'Ivoire,2016,train,train,test,test
+Côte d'Ivoire,2017,train,train,test,test
+Côte d'Ivoire,2018,train,train,test,test
+Côte d'Ivoire,2019,train,train,test,test
+Côte d'Ivoire,2020,train,train,test,test
+Côte d'Ivoire,2021,test,train,test,test
+Côte d'Ivoire,2022,test,test,test,test
+Côte d'Ivoire,2023,test,test,test,test
+Côte d'Ivoire,2024,test,test,test,test
+Democratic Republic of the Congo,2013,train,train,train,train
+Democratic Republic of the Congo,2014,train,train,train,train
+Democratic Republic of the Congo,2015,train,train,train,train
+Democratic Republic of the Congo,2016,train,train,train,train
+Democratic Republic of the Congo,2017,train,train,train,train
+Democratic Republic of the Congo,2018,train,train,train,train
+Democratic Republic of the Congo,2019,train,train,train,train
+Democratic Republic of the Congo,2020,train,train,train,train
+Democratic Republic of the Congo,2021,test,train,train,train
+Democratic Republic of the Congo,2022,test,test,train,train
+Democratic Republic of the Congo,2023,test,test,train,train
+Democratic Republic of the Congo,2024,test,test,train,train
+Equatorial Guinea,2013,train,train,train,train
+Equatorial Guinea,2014,train,train,train,train
+Equatorial Guinea,2015,train,train,train,train
+Equatorial Guinea,2016,train,train,train,train
+Equatorial Guinea,2017,train,train,train,train
+Equatorial Guinea,2018,train,train,train,train
+Equatorial Guinea,2019,train,train,train,train
+Equatorial Guinea,2020,train,train,train,train
+Equatorial Guinea,2021,test,train,train,train
+Equatorial Guinea,2022,test,test,train,train
+Equatorial Guinea,2023,test,test,train,train
+Equatorial Guinea,2024,test,test,train,train
+Ethiopia,2013,train,train,train,test
+Ethiopia,2014,train,train,train,test
+Ethiopia,2015,train,train,train,test
+Ethiopia,2016,train,train,train,test
+Ethiopia,2017,train,train,train,test
+Ethiopia,2018,train,train,train,test
+Ethiopia,2019,train,train,train,test
+Ethiopia,2020,train,train,train,test
+Ethiopia,2021,test,train,train,test
+Ethiopia,2022,test,test,train,test
+Ethiopia,2023,test,test,train,test
+Ethiopia,2024,test,test,train,test
+Gabon,2013,train,train,train,train
+Gabon,2014,train,train,train,train
+Gabon,2015,train,train,train,train
+Gabon,2016,train,train,train,train
+Gabon,2017,train,train,train,train
+Gabon,2018,train,train,train,train
+Gabon,2019,train,train,train,train
+Gabon,2020,train,train,train,train
+Gabon,2021,test,train,train,train
+Gabon,2022,test,test,train,train
+Gabon,2023,test,test,train,train
+Gabon,2024,test,test,train,train
+Gambia,2013,train,train,train,train
+Gambia,2014,train,train,train,train
+Gambia,2015,train,train,train,train
+Gambia,2016,train,train,train,train
+Gambia,2017,train,train,train,train
+Gambia,2018,train,train,train,train
+Gambia,2019,train,train,train,train
+Gambia,2020,train,train,train,train
+Gambia,2021,test,train,train,train
+Gambia,2022,test,test,train,train
+Gambia,2023,test,test,train,train
+Gambia,2024,test,test,train,train
+Ghana,2013,train,train,test,test
+Ghana,2014,train,train,test,test
+Ghana,2015,train,train,test,test
+Ghana,2016,train,train,test,test
+Ghana,2017,train,train,test,test
+Ghana,2018,train,train,test,test
+Ghana,2019,train,train,test,test
+Ghana,2020,train,train,test,test
+Ghana,2021,test,train,test,test
+Ghana,2022,test,test,test,test
+Ghana,2023,test,test,test,test
+Ghana,2024,test,test,test,test
+Guinea,2013,train,train,train,train
+Guinea,2014,train,train,train,train
+Guinea,2015,train,train,train,train
+Guinea,2016,train,train,train,train
+Guinea,2017,train,train,train,train
+Guinea,2018,train,train,train,train
+Guinea,2019,train,train,train,train
+Guinea,2020,train,train,train,train
+Guinea,2021,test,train,train,train
+Guinea,2022,test,test,train,train
+Guinea,2023,test,test,train,train
+Guinea,2024,test,test,train,train
+Kenya,2013,train,train,test,test
+Kenya,2014,train,train,test,test
+Kenya,2015,train,train,test,test
+Kenya,2016,train,train,test,test
+Kenya,2017,train,train,test,test
+Kenya,2018,train,train,test,test
+Kenya,2019,train,train,test,test
+Kenya,2020,train,train,test,test
+Kenya,2021,test,train,test,test
+Kenya,2022,test,test,test,test
+Kenya,2023,test,test,test,test
+Kenya,2024,test,test,test,test
+Liberia,2013,train,train,train,train
+Liberia,2014,train,train,train,train
+Liberia,2015,train,train,train,train
+Liberia,2016,train,train,train,train
+Liberia,2017,train,train,train,train
+Liberia,2018,train,train,train,train
+Liberia,2019,train,train,train,train
+Liberia,2020,train,train,train,train
+Liberia,2021,test,train,train,train
+Liberia,2022,test,test,train,train
+Liberia,2023,test,test,train,train
+Liberia,2024,test,test,train,train
+Madagascar,2013,train,train,train,train
+Madagascar,2014,train,train,train,train
+Madagascar,2015,train,train,train,train
+Madagascar,2016,train,train,train,train
+Madagascar,2017,train,train,train,train
+Madagascar,2018,train,train,train,train
+Madagascar,2019,train,train,train,train
+Madagascar,2020,train,train,train,train
+Madagascar,2021,test,train,train,train
+Madagascar,2022,test,test,train,train
+Madagascar,2023,test,test,train,train
+Madagascar,2024,test,test,train,train
+Malawi,2013,train,train,train,train
+Malawi,2014,train,train,train,train
+Malawi,2015,train,train,train,train
+Malawi,2016,train,train,train,train
+Malawi,2017,train,train,train,train
+Malawi,2018,train,train,train,train
+Malawi,2019,train,train,train,train
+Malawi,2020,train,train,train,train
+Malawi,2021,test,train,train,train
+Malawi,2022,test,test,train,train
+Malawi,2023,test,test,train,train
+Malawi,2024,test,test,train,train
+Mali,2013,train,train,train,train
+Mali,2014,train,train,train,train
+Mali,2015,train,train,train,train
+Mali,2016,train,train,train,train
+Mali,2017,train,train,train,train
+Mali,2018,train,train,train,train
+Mali,2019,train,train,train,train
+Mali,2020,train,train,train,train
+Mali,2021,test,train,train,train
+Mali,2022,test,test,train,train
+Mali,2023,test,test,train,train
+Mali,2024,test,test,train,train
+Mozambique,2013,train,train,train,train
+Mozambique,2014,train,train,train,train
+Mozambique,2015,train,train,train,train
+Mozambique,2016,train,train,train,train
+Mozambique,2017,train,train,train,train
+Mozambique,2018,train,train,train,train
+Mozambique,2019,train,train,train,train
+Mozambique,2020,train,train,train,train
+Mozambique,2021,test,train,train,train
+Mozambique,2022,test,test,train,train
+Mozambique,2023,test,test,train,train
+Mozambique,2024,test,test,train,train
+Namibia,2013,train,train,train,train
+Namibia,2014,train,train,train,train
+Namibia,2015,train,train,train,train
+Namibia,2016,train,train,train,train
+Namibia,2017,train,train,train,train
+Namibia,2018,train,train,train,train
+Namibia,2019,train,train,train,train
+Namibia,2020,train,train,train,train
+Namibia,2021,test,train,train,train
+Namibia,2022,test,test,train,train
+Namibia,2023,test,test,train,train
+Namibia,2024,test,test,train,train
+Nigeria,2013,train,train,test,test
+Nigeria,2014,train,train,test,test
+Nigeria,2015,train,train,test,test
+Nigeria,2016,train,train,test,test
+Nigeria,2017,train,train,test,test
+Nigeria,2018,train,train,test,test
+Nigeria,2019,train,train,test,test
+Nigeria,2020,train,train,test,test
+Nigeria,2021,test,train,test,test
+Nigeria,2022,test,test,test,test
+Nigeria,2023,test,test,test,test
+Nigeria,2024,test,test,test,test
+Rwanda,2013,train,train,train,test
+Rwanda,2014,train,train,train,test
+Rwanda,2015,train,train,train,test
+Rwanda,2016,train,train,train,test
+Rwanda,2017,train,train,train,test
+Rwanda,2018,train,train,train,test
+Rwanda,2019,train,train,train,test
+Rwanda,2020,train,train,train,test
+Rwanda,2021,test,train,train,test
+Rwanda,2022,test,test,train,test
+Rwanda,2023,test,test,train,test
+Rwanda,2024,test,test,train,test
+Senegal,2013,train,train,train,train
+Senegal,2014,train,train,train,train
+Senegal,2015,train,train,train,train
+Senegal,2016,train,train,train,train
+Senegal,2017,train,train,train,train
+Senegal,2018,train,train,train,train
+Senegal,2019,train,train,train,train
+Senegal,2020,train,train,train,train
+Senegal,2021,test,train,train,train
+Senegal,2022,test,test,train,train
+Senegal,2023,test,test,train,train
+Senegal,2024,test,test,train,train
+Sierra Leone,2013,train,train,train,train
+Sierra Leone,2014,train,train,train,train
+Sierra Leone,2015,train,train,train,train
+Sierra Leone,2016,train,train,train,train
+Sierra Leone,2017,train,train,train,train
+Sierra Leone,2018,train,train,train,train
+Sierra Leone,2019,train,train,train,train
+Sierra Leone,2020,train,train,train,train
+Sierra Leone,2021,test,train,train,train
+Sierra Leone,2022,test,test,train,train
+Sierra Leone,2023,test,test,train,train
+Sierra Leone,2024,test,test,train,train
+Togo,2013,train,train,train,train
+Togo,2014,train,train,train,train
+Togo,2015,train,train,train,train
+Togo,2016,train,train,train,train
+Togo,2017,train,train,train,train
+Togo,2018,train,train,train,train
+Togo,2019,train,train,train,train
+Togo,2020,train,train,train,train
+Togo,2021,test,train,train,train
+Togo,2022,test,test,train,train
+Togo,2023,test,test,train,train
+Togo,2024,test,test,train,train
+Uganda,2013,train,train,test,test
+Uganda,2014,train,train,test,test
+Uganda,2015,train,train,test,test
+Uganda,2016,train,train,test,test
+Uganda,2017,train,train,test,test
+Uganda,2018,train,train,test,test
+Uganda,2019,train,train,test,test
+Uganda,2020,train,train,test,test
+Uganda,2021,test,train,test,test
+Uganda,2022,test,test,test,test
+Uganda,2023,test,test,test,test
+Uganda,2024,test,test,test,test
+United Republic of Tanzania,2013,train,train,test,test
+United Republic of Tanzania,2014,train,train,test,test
+United Republic of Tanzania,2015,train,train,test,test
+United Republic of Tanzania,2016,train,train,test,test
+United Republic of Tanzania,2017,train,train,test,test
+United Republic of Tanzania,2018,train,train,test,test
+United Republic of Tanzania,2019,train,train,test,test
+United Republic of Tanzania,2020,train,train,test,test
+United Republic of Tanzania,2021,test,train,test,test
+United Republic of Tanzania,2022,test,test,test,test
+United Republic of Tanzania,2023,test,test,test,test
+United Republic of Tanzania,2024,test,test,test,test
+Zimbabwe,2013,train,train,train,train
+Zimbabwe,2014,train,train,train,train
+Zimbabwe,2015,train,train,train,train
+Zimbabwe,2016,train,train,train,train
+Zimbabwe,2017,train,train,train,train
+Zimbabwe,2018,train,train,train,train
+Zimbabwe,2019,train,train,train,train
+Zimbabwe,2020,train,train,train,train
+Zimbabwe,2021,test,train,train,train
+Zimbabwe,2022,test,test,train,train
+Zimbabwe,2023,test,test,train,train
+Zimbabwe,2024,test,test,train,train

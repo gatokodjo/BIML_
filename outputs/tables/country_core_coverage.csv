@@ -1,0 +1,33 @@
+Country,CountryCode,incidence_years,itn_use_years,itn_access_years,climate_years
+Angola,AGO,10,10,10,10
+Benin,BEN,10,10,10,10
+Botswana,BWA,10,0,0,10
+Burkina Faso,BFA,10,10,10,10
+Burundi,BDI,10,10,10,10
+Cameroon,CMR,10,10,10,10
+Central African Republic,CAF,10,10,10,10
+Chad,TCD,10,10,10,10
+Congo,COG,10,10,10,10
+Côte d'Ivoire,CIV,10,10,10,10
+Democratic Republic of the Congo,COD,10,10,10,10
+Equatorial Guinea,GNQ,10,10,10,10
+Ethiopia,ETH,0,10,10,10
+Gabon,GAB,10,10,10,10
+Gambia,GMB,10,10,10,10
+Ghana,GHA,10,10,10,10
+Guinea,GIN,10,10,10,10
+Kenya,KEN,10,10,10,10
+Liberia,LBR,10,10,10,10
+Madagascar,MDG,10,10,10,10
+Malawi,MWI,10,10,10,10
+Mali,MLI,10,10,10,10
+Mozambique,MOZ,10,10,10,10
+Namibia,NAM,10,0,0,10
+Nigeria,NGA,10,10,10,10
+Rwanda,RWA,10,10,10,10
+Senegal,SEN,10,10,10,10
+Sierra Leone,SLE,10,10,10,10
+Togo,TGO,10,10,10,10
+Uganda,UGA,10,10,10,10
+United Republic of Tanzania,TZA,10,10,10,10
+Zimbabwe,ZWE,10,10,10,10

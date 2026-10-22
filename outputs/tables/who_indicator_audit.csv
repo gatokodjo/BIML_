@@ -1,0 +1,9 @@
+indicator,countries,country_years,nonmissing_values,first_year,last_year
+incidence_a,33,396,396,2013,2024
+incidence_b,39,468,468,2013,2024
+itn_use,40,480,480,2013,2024
+itn_access,40,400,400,2015,2024
+treatment,36,225,225,2017,2024
+confirmed,33,324,324,2015,2024
+irs,21,142,142,2015,2024
+suspected,35,343,343,2015,2024

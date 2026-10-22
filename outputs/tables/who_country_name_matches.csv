@@ -1,0 +1,33 @@
+Country,Country_normalized,CountryCode,Country_WHO
+Angola,angola,AGO,Angola
+Benin,benin,BEN,Benin
+Botswana,botswana,BWA,Botswana
+Burkina Faso,burkina faso,BFA,Burkina Faso
+Burundi,burundi,BDI,Burundi
+Cameroon,cameroon,CMR,Cameroon
+Central African Republic,central african republic,CAF,Central African Republic
+Chad,chad,TCD,Chad
+Congo,congo,COG,Congo
+Côte d'Ivoire,côte d'ivoire,,
+Democratic Republic of the Congo,democratic republic of the congo,COD,Democratic Republic of the Congo
+Equatorial Guinea,equatorial guinea,GNQ,Equatorial Guinea
+Ethiopia,ethiopia,ETH,Ethiopia
+Gabon,gabon,GAB,Gabon
+Gambia,gambia,GMB,Gambia
+Ghana,ghana,GHA,Ghana
+Guinea,guinea,GIN,Guinea
+Kenya,kenya,KEN,Kenya
+Liberia,liberia,LBR,Liberia
+Madagascar,madagascar,MDG,Madagascar
+Malawi,malawi,MWI,Malawi
+Mali,mali,MLI,Mali
+Mozambique,mozambique,MOZ,Mozambique
+Namibia,namibia,NAM,Namibia
+Nigeria,nigeria,NGA,Nigeria
+Rwanda,rwanda,RWA,Rwanda
+Senegal,senegal,SEN,Senegal
+Sierra Leone,sierra leone,SLE,Sierra Leone
+Togo,togo,TGO,Togo
+Uganda,uganda,UGA,Uganda
+United Republic of Tanzania,united republic of tanzania,TZA,United Republic of Tanzania
+Zimbabwe,zimbabwe,ZWE,Zimbabwe

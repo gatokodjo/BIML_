@@ -1,0 +1,1561 @@
+==============================================================================
+CELL 61 — SAVED SUH & VILLENA RESULT INVENTORY
+==============================================================================
+
+ROOT: /home/gato/Desktop/BIML_Research
+Exists: True
+
+ROOT: /home/gato/Desktop/BIML_
+Exists: True
+
+ROOT: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only
+Exists: True
+
+Total matching numerical files: 193
+
+Files by extension:
+extension
+.csv    177
+.rds     16
+
+FILES FOUND:
+
+[1] /home/gato/Desktop/BIML_/data/BIML_E4_validation_predictions.csv
+    Type: .csv | Size: 0.021 MB
+
+[2] /home/gato/Desktop/BIML_/data/BIML_monthly_EIP_features.csv
+    Type: .csv | Size: 1.006 MB
+
+[3] /home/gato/Desktop/BIML_/data/eip/eip_independent_11temps.csv
+    Type: .csv | Size: 0.004 MB
+
+[4] /home/gato/Desktop/BIML_/data/eip/eip_pooled_temperature_grid.csv
+    Type: .csv | Size: 0.044 MB
+
+[5] /home/gato/Desktop/BIML_/data/eip/fast_vc_336_scenarios.csv
+    Type: .csv | Size: 0.087 MB
+
+[6] /home/gato/Desktop/BIML_/data/eip/infectious.data.csv
+    Type: .csv | Size: 0.05 MB
+
+[7] /home/gato/Desktop/BIML_/data/eip/task11_5_eip_moments_pooled.csv
+    Type: .csv | Size: 0.005 MB
+
+[8] /home/gato/Desktop/BIML_/data/eip/temp.surv.csv
+    Type: .csv | Size: 0.116 MB
+
+[9] /home/gato/Desktop/BIML_/outputs/tables/BIML_EIP_quantile_lookup.csv
+    Type: .csv | Size: 0.007 MB
+
+[10] /home/gato/Desktop/BIML_/outputs/tables/BIML_biting_competence_lookup.csv
+    Type: .csv | Size: 0.014 MB
+
+[11] /home/gato/Desktop/BIML_/outputs/tables/BIML_harmonized_biological_lookup.csv
+    Type: .csv | Size: 0.028 MB
+
+[12] /home/gato/Desktop/BIML_/outputs/tables/BIML_mean_EIP_lookup.csv
+    Type: .csv | Size: 0.001 MB
+
+[13] /home/gato/Desktop/BIML_/outputs/tables/BIML_temperature_support_by_country.csv
+    Type: .csv | Size: 0.001 MB
+
+[14] /home/gato/Desktop/BIML_/outputs/tables/BIML_temperature_support_by_country_year.csv
+    Type: .csv | Size: 0.009 MB
+
+[15] /home/gato/Desktop/BIML_/outputs/tables/E1_environment_ridge_validation.csv
+    Type: .csv | Size: 0.0 MB
+
+[16] /home/gato/Desktop/BIML_/outputs/tables/E2_history_environment_validation.csv
+    Type: .csv | Size: 0.0 MB
+
+[17] /home/gato/Desktop/BIML_/outputs/tables/E3_history_ITN_validation.csv
+    Type: .csv | Size: 0.0 MB
+
+[18] /home/gato/Desktop/BIML_/outputs/tables/E4_country_validation_diagnostics.csv
+    Type: .csv | Size: 0.002 MB
+
+[19] /home/gato/Desktop/BIML_/outputs/tables/E4_full_ridge_validation.csv
+    Type: .csv | Size: 0.0 MB
+
+[20] /home/gato/Desktop/BIML_/outputs/tables/E4_year_validation_diagnostics.csv
+    Type: .csv | Size: 0.0 MB
+
+[21] /home/gato/Desktop/BIML_/outputs/tables/biological_input_readiness.csv
+    Type: .csv | Size: 0.001 MB
+
+[22] /home/gato/Desktop/BIML_/outputs/tables/country_temperature_ranges.csv
+    Type: .csv | Size: 0.002 MB
+
+[23] /home/gato/Desktop/BIML_/outputs/tables/ridge_history_validation.csv
+    Type: .csv | Size: 0.0 MB
+
+[24] /home/gato/Desktop/BIML_/outputs/tables/ridge_vs_persistence_validation.csv
+    Type: .csv | Size: 0.0 MB
+
+[25] /home/gato/Desktop/BIML_Research/BIML_Stage10_B2_Semantic_Correction/reference/B2_final_monthly_with_components.csv
+    Type: .csv | Size: 0.891 MB
+
+[26] /home/gato/Desktop/BIML_Research/BIML_Stage10_B2_Semantic_Correction/reference/biting_rate_estimates.csv
+    Type: .csv | Size: 0.026 MB
+
+[27] /home/gato/Desktop/BIML_Research/BIML_Stage10_B2_Semantic_Correction/reference/task11_5_eip_moments_pooled.csv
+    Type: .csv | Size: 0.005 MB
+
+[28] /home/gato/Desktop/BIML_Research/BIML_Stage10_B2_Semantic_Correction/reference/task11_5_vector_competence_pooled.csv
+    Type: .csv | Size: 0.001 MB
+
+[29] /home/gato/Desktop/BIML_Research/BIML_Stage11_Supervised_Integration/reference/b1_monthly_posterior_v1.csv
+    Type: .csv | Size: 0.961 MB
+
+[30] /home/gato/Desktop/BIML_Research/BIML_Stage11_Supervised_Integration/reference/stage10_b2_corrected_annual.csv
+    Type: .csv | Size: 0.028 MB
+
+[31] /home/gato/Desktop/BIML_Research/BIML_Stage15_Publication_Results/outputs/stage15/table_2_main_models_biology_CI.csv
+    Type: .csv | Size: 0.01 MB
+
+[32] /home/gato/Desktop/BIML_Research/BIML_Stage15_Publication_Results/outputs/stage15/table_S2_all_biology_bootstrap_comparisons.csv
+    Type: .csv | Size: 0.035 MB
+
+[33] /home/gato/Desktop/BIML_Research/BIML_Stage16A_EndToEnd_Audit/outputs/table_B1_posterior_full_country_distribution.csv
+    Type: .csv | Size: 0.003 MB
+
+[34] /home/gato/Desktop/BIML_Research/BIML_Stage16A_EndToEnd_Audit/reference/b1_monthly_posterior_v1.csv
+    Type: .csv | Size: 0.961 MB
+
+[35] /home/gato/Desktop/BIML_Research/BIML_Stage16A_EndToEnd_Audit/reference/stage10_b2_corrected_annual.csv
+    Type: .csv | Size: 0.028 MB
+
+[36] /home/gato/Desktop/BIML_Research/BIML_Stage16A_EndToEnd_Audit/reference/stage10_b2_corrected_monthly.csv
+    Type: .csv | Size: 0.756 MB
+
+[37] /home/gato/Desktop/BIML_Research/BIML_Stage16A_Manuscript_Figures/data/stage10_b2_corrected_monthly.csv
+    Type: .csv | Size: 0.756 MB
+
+[38] /home/gato/Desktop/BIML_Research/BIML_Stage16A_Manuscript_Figures/data/task11_5_eip_moments_pooled.csv
+    Type: .csv | Size: 0.005 MB
+
+[39] /home/gato/Desktop/BIML_Research/BIML_Stage16A_Manuscript_Figures/data/task11_5_vector_competence_pooled.csv
+    Type: .csv | Size: 0.001 MB
+
+[40] /home/gato/Desktop/BIML_Research/BIML_Stage16A_Manuscript_Figures/data/villena_AnGamb_Pfalc_ST_posterior.csv
+    Type: .csv | Size: 0.013 MB
+
+[41] /home/gato/Desktop/BIML_Research/biml_pipeline/outputs/stage02/biological_inventory.csv
+    Type: .csv | Size: 0.024 MB
+
+[42] /home/gato/Desktop/BIML_Research/biml_pipeline/outputs/stage03/biological_source_manifest.csv
+    Type: .csv | Size: 0.003 MB
+
+[43] /home/gato/Desktop/BIML_Research/biml_pipeline/outputs/stage05/b1_monthly_posterior_v1.csv
+    Type: .csv | Size: 0.961 MB
+
+[44] /home/gato/Desktop/BIML_Research/biml_pipeline/outputs/stage10/stage10_b2_corrected_annual.csv
+    Type: .csv | Size: 0.028 MB
+
+[45] /home/gato/Desktop/BIML_Research/biml_pipeline/outputs/stage10/stage10_b2_corrected_monthly.csv
+    Type: .csv | Size: 0.756 MB
+
+[46] /home/gato/Desktop/BIML_Research/biological_models/suh/biting_rate_estimates.csv
+    Type: .csv | Size: 0.026 MB
+
+[47] /home/gato/Desktop/BIML_Research/biological_models/suh/fits/biting_rate_fit.rds
+    Type: .rds | Size: 48.494 MB
+
+[48] /home/gato/Desktop/BIML_Research/biological_models/suh/fits/fit_biting_rate_TEST.rds
+    Type: .rds | Size: 21.904 MB
+
+[49] /home/gato/Desktop/BIML_Research/biological_models/suh/fits/fit_mSOS_independent_FULL.rds
+    Type: .rds | Size: 881.517 MB
+
+[50] /home/gato/Desktop/BIML_Research/biological_models/suh/fits/fit_mSOS_independent_TEST.rds
+    Type: .rds | Size: 18.997 MB
+
+[51] /home/gato/Desktop/BIML_Research/biological_models/suh/fits/fit_mSOS_pooled_FULL.rds
+    Type: .rds | Size: 859.459 MB
+
+[52] /home/gato/Desktop/BIML_Research/biological_models/suh/fits/fit_mSOS_pooled_TEST.rds
+    Type: .rds | Size: 29.745 MB
+
+[53] /home/gato/Desktop/BIML_Research/biological_models/suh/fits/params_df.rds
+    Type: .rds | Size: 0.065 MB
+
+[54] /home/gato/Desktop/BIML_Research/biological_models/suh/model/mSOS_multi.rds
+    Type: .rds | Size: 22.908 MB
+
+[55] /home/gato/Desktop/BIML_Research/biological_models/suh/model/mSOS_multi_8.rds
+    Type: .rds | Size: 22.664 MB
+
+[56] /home/gato/Desktop/BIML_Research/biological_models/suh/params_df_E_j_bites_a0.rds
+    Type: .rds | Size: 0.007 MB
+
+[57] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/biting_rate_comparison.csv
+    Type: .csv | Size: 0.065 MB
+
+[58] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/fast_vc_336_scenarios.csv
+    Type: .csv | Size: 0.087 MB
+
+[59] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/independent_model_data.rds
+    Type: .rds | Size: 0.002 MB
+
+[60] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/independent_model_diagnostics.csv
+    Type: .csv | Size: 0.016 MB
+
+[61] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/independent_posterior_predictions.csv
+    Type: .csv | Size: 0.287 MB
+
+[62] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/oocyst_observed_vs_predicted.csv
+    Type: .csv | Size: 0.002 MB
+
+[63] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/sporozoite_observed_vs_predicted.csv
+    Type: .csv | Size: 0.012 MB
+
+[64] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task10/empirical_fit_metrics.csv
+    Type: .csv | Size: 0.0 MB
+
+[65] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task10/independent_parameter_summary.csv
+    Type: .csv | Size: 0.01 MB
+
+[66] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task10/input_manifest.csv
+    Type: .csv | Size: 0.001 MB
+
+[67] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task10/model_diagnostics.csv
+    Type: .csv | Size: 0.0 MB
+
+[68] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/eip50_degree_day_probability.csv
+    Type: .csv | Size: 0.001 MB
+
+[69] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/eip_independent_11temps.csv
+    Type: .csv | Size: 0.004 MB
+
+[70] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/eip_pooled_11temps.csv
+    Type: .csv | Size: 0.004 MB
+
+[71] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/eip_pooled_temperature_grid.csv
+    Type: .csv | Size: 0.044 MB
+
+[72] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_3_brier_by_temperature.csv
+    Type: .csv | Size: 0.001 MB
+
+[73] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_3_brier_overall.csv
+    Type: .csv | Size: 0.0 MB
+
+[74] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_3_scored_mosquitoes.csv
+    Type: .csv | Size: 0.532 MB
+
+[75] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_4_empirical_plot_points.csv
+    Type: .csv | Size: 0.01 MB
+
+[76] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_4_posterior_prediction_curves.csv
+    Type: .csv | Size: 0.665 MB
+
+[77] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_5_eip_moments_combined.csv
+    Type: .csv | Size: 0.011 MB
+
+[78] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_5_eip_moments_independent.csv
+    Type: .csv | Size: 0.005 MB
+
+[79] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_5_eip_moments_pooled.csv
+    Type: .csv | Size: 0.005 MB
+
+[80] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_5_vector_competence_combined.csv
+    Type: .csv | Size: 0.003 MB
+
+[81] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_5_vector_competence_independent.csv
+    Type: .csv | Size: 0.001 MB
+
+[82] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_5_vector_competence_pooled.csv
+    Type: .csv | Size: 0.001 MB
+
+[83] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11_invalid_scaling/eip50_degree_day_probability.csv
+    Type: .csv | Size: 0.001 MB
+
+[84] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11_invalid_scaling/eip_independent_11temps.csv
+    Type: .csv | Size: 0.004 MB
+
+[85] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11_invalid_scaling/eip_pooled_11temps.csv
+    Type: .csv | Size: 0.004 MB
+
+[86] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11_invalid_scaling/eip_pooled_temperature_grid.csv
+    Type: .csv | Size: 0.043 MB
+
+[87] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task9/ppc_summary.csv
+    Type: .csv | Size: 0.001 MB
+
+[88] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task9/replicated_datasets.rds
+    Type: .rds | Size: 0.493 MB
+
+[89] /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task9/temperature_specific_ppc.csv
+    Type: .csv | Size: 0.003 MB
+
+[90] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_a_diagnostics_test.csv
+    Type: .csv | Size: 0.001 MB
+
+[91] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_a_posterior_test.csv
+    Type: .csv | Size: 0.068 MB
+
+[92] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_bc.succ_diagnostics_test.csv
+    Type: .csv | Size: 0.0 MB
+
+[93] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_bc.succ_posterior_test.csv
+    Type: .csv | Size: 0.051 MB
+
+[94] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_e2a_diagnostics_test.csv
+    Type: .csv | Size: 0.001 MB
+
+[95] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_e2a_posterior_test.csv
+    Type: .csv | Size: 0.067 MB
+
+[96] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_efd_diagnostics_test.csv
+    Type: .csv | Size: 0.001 MB
+
+[97] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_efd_posterior_test.csv
+    Type: .csv | Size: 0.069 MB
+
+[98] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_mdr_diagnostics_test.csv
+    Type: .csv | Size: 0.001 MB
+
+[99] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_mdr_posterior_test.csv
+    Type: .csv | Size: 0.068 MB
+
+[100] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_mu_diagnostics_test.csv
+    Type: .csv | Size: 0.001 MB
+
+[101] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_mu_posterior_test.csv
+    Type: .csv | Size: 0.068 MB
+
+[102] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_pdr_diagnostics_test.csv
+    Type: .csv | Size: 0.001 MB
+
+[103] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_pdr_posterior_test.csv
+    Type: .csv | Size: 0.068 MB
+
+[104] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_curve_full.csv
+    Type: .csv | Size: 0.005 MB
+
+[105] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_curve_test.csv
+    Type: .csv | Size: 0.005 MB
+
+[106] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_diagnostics_full.csv
+    Type: .csv | Size: 0.001 MB
+
+[107] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_diagnostics_test.csv
+    Type: .csv | Size: 0.001 MB
+
+[108] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_observed_vs_predicted_full.csv
+    Type: .csv | Size: 0.001 MB
+
+[109] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_observed_vs_predicted_test.csv
+    Type: .csv | Size: 0.001 MB
+
+[110] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_posterior_full.csv
+    Type: .csv | Size: 3.155 MB
+
+[111] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_posterior_test.csv
+    Type: .csv | Size: 0.316 MB
+
+[112] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_a_diagnostics_full.csv
+    Type: .csv | Size: 0.0 MB
+
+[113] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_a_posterior_full.csv
+    Type: .csv | Size: 2.242 MB
+
+[114] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_bc.succ_diagnostics_full.csv
+    Type: .csv | Size: 0.0 MB
+
+[115] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_bc.succ_posterior_full.csv
+    Type: .csv | Size: 1.732 MB
+
+[116] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_e2a_diagnostics_full.csv
+    Type: .csv | Size: 0.0 MB
+
+[117] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_e2a_posterior_full.csv
+    Type: .csv | Size: 2.214 MB
+
+[118] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_efd_diagnostics_full.csv
+    Type: .csv | Size: 0.0 MB
+
+[119] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_efd_posterior_full.csv
+    Type: .csv | Size: 2.258 MB
+
+[120] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_mdr_diagnostics_full.csv
+    Type: .csv | Size: 0.0 MB
+
+[121] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_mdr_posterior_full.csv
+    Type: .csv | Size: 2.242 MB
+
+[122] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_pdr_diagnostics_full.csv
+    Type: .csv | Size: 0.0 MB
+
+[123] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_pdr_posterior_full.csv
+    Type: .csv | Size: 2.242 MB
+
+[124] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_six_traits_diagnostics_full.csv
+    Type: .csv | Size: 0.002 MB
+
+[125] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_a_diagnostics_test.csv
+    Type: .csv | Size: 0.0 MB
+
+[126] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_a_posterior_test.csv
+    Type: .csv | Size: 0.222 MB
+
+[127] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_bc.succ_diagnostics_test.csv
+    Type: .csv | Size: 0.0 MB
+
+[128] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_bc.succ_posterior_test.csv
+    Type: .csv | Size: 0.17 MB
+
+[129] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_e2a_diagnostics_test.csv
+    Type: .csv | Size: 0.0 MB
+
+[130] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_e2a_posterior_test.csv
+    Type: .csv | Size: 0.219 MB
+
+[131] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_efd_diagnostics_test.csv
+    Type: .csv | Size: 0.0 MB
+
+[132] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_efd_posterior_test.csv
+    Type: .csv | Size: 0.223 MB
+
+[133] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_mdr_diagnostics_test.csv
+    Type: .csv | Size: 0.0 MB
+
+[134] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_mdr_posterior_test.csv
+    Type: .csv | Size: 0.222 MB
+
+[135] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_pdr_diagnostics_test.csv
+    Type: .csv | Size: 0.0 MB
+
+[136] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_pdr_posterior_test.csv
+    Type: .csv | Size: 0.222 MB
+
+[137] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_six_traits_diagnostics_test.csv
+    Type: .csv | Size: 0.002 MB
+
+[138] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step09_ASPF/ASPF_reconstructed_curve.csv
+    Type: .csv | Size: 0.011 MB
+
+[139] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step09_ASPF/ASPF_reconstructed_draw_limits.csv
+    Type: .csv | Size: 0.069 MB
+
+[140] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step09_ASPF/ASPF_reconstructed_limits_summary.csv
+    Type: .csv | Size: 0.0 MB
+
+[141] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step10_efd_hurdle/ASPF_efd_hurdle_posterior.csv
+    Type: .csv | Size: 1.99 MB
+
+[142] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step10_efd_hurdle/diagnostics.csv
+    Type: .csv | Size: 0.0 MB
+
+[143] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step15_EFD_ablation/comparison_summary.csv
+    Type: .csv | Size: 0.0 MB
+
+[144] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step15_EFD_ablation/full_curve.csv
+    Type: .csv | Size: 0.011 MB
+
+[145] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step15_EFD_ablation/full_draw_limits.csv
+    Type: .csv | Size: 0.069 MB
+
+[146] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step15_EFD_ablation/noEFD_curve.csv
+    Type: .csv | Size: 0.015 MB
+
+[147] /home/gato/Desktop/BIML_Research/biological_models/villena/results/step15_EFD_ablation/noEFD_draw_limits.csv
+    Type: .csv | Size: 0.069 MB
+
+[148] /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_AGPF_capped_curve.csv
+    Type: .csv | Size: 0.022 MB
+
+[149] /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_AGPF_capped_thermal_limits.csv
+    Type: .csv | Size: 0.069 MB
+
+[150] /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_AGPF_uncapped_curve.csv
+    Type: .csv | Size: 0.022 MB
+
+[151] /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_AGPF_uncapped_thermal_limits.csv
+    Type: .csv | Size: 0.069 MB
+
+[152] /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_ASPF_author_posterior_summary.csv
+    Type: .csv | Size: 0.0 MB
+
+[153] /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_ASPF_author_thermal_limits.csv
+    Type: .csv | Size: 0.138 MB
+
+[154] /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_ASPF_original_trait_data.csv
+    Type: .csv | Size: 0.039 MB
+
+[155] /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_ASPF_trait_inventory.csv
+    Type: .csv | Size: 0.0 MB
+
+[156] /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_AnGamb_Pfalc_ST_posterior.csv
+    Type: .csv | Size: 0.013 MB
+
+[157] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/biting_rate_estimates.csv
+    Type: .csv | Size: 0.026 MB
+
+[158] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/data/doi_10.5061_dryad.74839_shapiro/infectious.data.csv
+    Type: .csv | Size: 0.05 MB
+
+[159] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/fits/biting_rate_fit.rds
+    Type: .rds | Size: 48.494 MB
+
+[160] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/fits/fit_biting_rate_TEST.rds
+    Type: .rds | Size: 21.904 MB
+
+[161] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/biting_rate_comparison.csv
+    Type: .csv | Size: 0.065 MB
+
+[162] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/fast_vc_336_scenarios.csv
+    Type: .csv | Size: 0.087 MB
+
+[163] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/independent_model_data.rds
+    Type: .rds | Size: 0.002 MB
+
+[164] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/independent_model_diagnostics.csv
+    Type: .csv | Size: 0.016 MB
+
+[165] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/independent_posterior_predictions.csv
+    Type: .csv | Size: 0.287 MB
+
+[166] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/oocyst_observed_vs_predicted.csv
+    Type: .csv | Size: 0.002 MB
+
+[167] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/sporozoite_observed_vs_predicted.csv
+    Type: .csv | Size: 0.012 MB
+
+[168] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task10/empirical_fit_metrics.csv
+    Type: .csv | Size: 0.0 MB
+
+[169] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task10/independent_parameter_summary.csv
+    Type: .csv | Size: 0.01 MB
+
+[170] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task10/input_manifest.csv
+    Type: .csv | Size: 0.001 MB
+
+[171] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task10/model_diagnostics.csv
+    Type: .csv | Size: 0.0 MB
+
+[172] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/eip50_degree_day_probability.csv
+    Type: .csv | Size: 0.001 MB
+
+[173] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/eip_independent_11temps.csv
+    Type: .csv | Size: 0.004 MB
+
+[174] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/eip_pooled_11temps.csv
+    Type: .csv | Size: 0.004 MB
+
+[175] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/eip_pooled_temperature_grid.csv
+    Type: .csv | Size: 0.044 MB
+
+[176] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_3_brier_by_temperature.csv
+    Type: .csv | Size: 0.001 MB
+
+[177] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_3_brier_overall.csv
+    Type: .csv | Size: 0.0 MB
+
+[178] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_3_scored_mosquitoes.csv
+    Type: .csv | Size: 0.532 MB
+
+[179] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_4_empirical_plot_points.csv
+    Type: .csv | Size: 0.01 MB
+
+[180] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_4_posterior_prediction_curves.csv
+    Type: .csv | Size: 0.665 MB
+
+[181] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_5_eip_moments_combined.csv
+    Type: .csv | Size: 0.011 MB
+
+[182] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_5_eip_moments_independent.csv
+    Type: .csv | Size: 0.005 MB
+
+[183] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_5_eip_moments_pooled.csv
+    Type: .csv | Size: 0.005 MB
+
+[184] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_5_vector_competence_combined.csv
+    Type: .csv | Size: 0.003 MB
+
+[185] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_5_vector_competence_independent.csv
+    Type: .csv | Size: 0.001 MB
+
+[186] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_5_vector_competence_pooled.csv
+    Type: .csv | Size: 0.001 MB
+
+[187] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11_invalid_scaling/eip50_degree_day_probability.csv
+    Type: .csv | Size: 0.001 MB
+
+[188] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11_invalid_scaling/eip_independent_11temps.csv
+    Type: .csv | Size: 0.004 MB
+
+[189] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11_invalid_scaling/eip_pooled_11temps.csv
+    Type: .csv | Size: 0.004 MB
+
+[190] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11_invalid_scaling/eip_pooled_temperature_grid.csv
+    Type: .csv | Size: 0.043 MB
+
+[191] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task9/ppc_summary.csv
+    Type: .csv | Size: 0.001 MB
+
+[192] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task9/replicated_datasets.rds
+    Type: .rds | Size: 0.493 MB
+
+[193] /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task9/temperature_specific_ppc.csv
+    Type: .csv | Size: 0.003 MB
+
+==============================================================================
+PRIORITY CSV SCHEMA INSPECTION
+==============================================================================
+
+FILE: /home/gato/Desktop/BIML_/data/BIML_monthly_EIP_features.csv
+Columns: ['Country', 'Year', 'Month', 'Date', 'Landsat_LST_C', 'MODIS_Night_LST_C', 'Rainfall_mm', 'RH_pct', 'NDVI', 'NDWI', 'Landsat_scene_count', 'Landsat_valid_coverage_pct', 'MODIS_composite_count', 'Landsat_available', 'MODIS_available', 'Rainfall_available', 'RH_available', 'NDVI_available', 'NDWI_available', 'ERA5_T2M_C', 'ERA5_T2M_available', 'bio_temp_supported', 'EIP_10', 'EIP_50', 'EIP_90', 'mean_EIP', 'mean_EIP_lower', 'mean_EIP_upper']
+Sample rows: 5
+Country  Year  Month    Date  Landsat_LST_C  MODIS_Night_LST_C  Rainfall_mm    RH_pct     NDVI      NDWI  Landsat_scene_count  Landsat_valid_coverage_pct  MODIS_composite_count  Landsat_available  MODIS_available  Rainfall_available  RH_available  NDVI_available  NDWI_available  ERA5_T2M_C  ERA5_T2M_available  bio_temp_supported    EIP_10    EIP_50    EIP_90  mean_EIP  mean_EIP_lower  mean_EIP_upper
+ Angola  2015    1.0 2015-01      31.670521          17.233966   118.875135 77.379096 0.598050 -0.583089                   98                   49.714442                      4                  1                1                   1             1               1               1   22.353417                   1                True 14.056957 16.406820 20.476215 17.182958       16.847664       17.552415
+ Angola  2015    2.0 2015-02      30.952017          17.597923   102.077342 75.442648 0.623705 -0.603035                  113                   61.811732                      4                  1                1                   1             1               1               1   22.938346                   1                True 13.066725 15.252525 19.044658 15.745272       15.442760       16.075082
+
+FILE: /home/gato/Desktop/BIML_/data/eip/eip_independent_11temps.csv
+Columns: ['model', 'temp', 'EIP', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+      model  temp    EIP      mean    lower    median     upper  n_valid  n_total
+independent    17 EIP_10 23.821158 2.721549 15.407677 53.396999    10000    10000
+independent    17 EIP_50 31.575412 3.507268 19.971459 73.025122    10000    10000
+
+FILE: /home/gato/Desktop/BIML_/data/eip/eip_pooled_temperature_grid.csv
+Columns: ['model', 'temp', 'EIP', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp    EIP      mean     lower    median     upper  n_valid  n_total
+pooled  17.0 EIP_10 49.307429 44.236437 49.156968 55.077913    10000    10000
+pooled  17.0 EIP_50 59.566310 52.754483 59.293717 67.625576    10000    10000
+
+FILE: /home/gato/Desktop/BIML_/data/eip/fast_vc_336_scenarios.csv
+Columns: ['location', 'temp_source', 'temp', 'scaled_temp', 'g1', 'g2', 'feed', 'alpha', 'shape_total_S', 'rate_total_S', 'mu', 'k', 'a0', 'E_j_a0', 'EIP_DD', 'E_j_a0_fixed', 'NA_', 'fast_result', 'error_message', 'absolute_difference', 'relative_difference_pct']
+Sample rows: 5
+location temp_source  temp  scaled_temp       g1       g2   feed    alpha  shape_total_S  rate_total_S       mu        k  a0   E_j_a0  EIP_DD  E_j_a0_fixed   NA_  fast_result  error_message  absolute_difference  relative_difference_pct
+ Kericho      recent  17.5    -1.276896 0.012606 0.030575 feed_1 0.125273       49.53837       0.96286 0.137095 0.386637   0 0.377979      74      0.025737 False     0.371553            NaN             0.006426                 1.700107
+ Kericho      recent  17.5    -1.276896 0.012606 0.030575 feed_1 0.125273       49.53837       0.96286 0.137095 0.386637   1 0.354533      74      0.022505 False     0.348274            NaN             0.006259                 1.765482
+
+FILE: /home/gato/Desktop/BIML_/data/eip/infectious.data.csv
+Columns: ['Block', 'Temperature', 'Day', 'Cup', 'Sporozoite Prevalence']
+Sample rows: 5
+ Block  Temperature  Day  Cup  Sporozoite Prevalence
+     0           21   10    1                      0
+     0           21   10    1                      0
+
+FILE: /home/gato/Desktop/BIML_/data/eip/task11_5_eip_moments_pooled.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp quantity      mean     lower    median      upper  n_valid  n_total
+pooled    17     mean 60.025201 53.048464 59.827767  68.052758     1000     1000
+pooled    17 variance 74.521513 47.415548 72.519619 117.269100     1000     1000
+
+FILE: /home/gato/Desktop/BIML_/data/eip/temp.surv.csv
+Columns: ['id', 'expt', 'temp', 'cup', 'day', 'status']
+Sample rows: 5
+ id  expt  temp  cup  day  status
+  1     1    21    1    1       1
+  2     1    21    1    1       1
+
+FILE: /home/gato/Desktop/BIML_/outputs/tables/BIML_EIP_quantile_lookup.csv
+Columns: ['temp', 'EIP_10', 'EIP_50', 'EIP_90']
+Sample rows: 5
+ temp    EIP_10    EIP_50    EIP_90
+ 17.0 49.307429 59.566310 71.328804
+ 17.1 47.608761 57.494553 68.868201
+
+FILE: /home/gato/Desktop/BIML_/outputs/tables/BIML_biting_competence_lookup.csv
+Columns: ['temp', 'alpha', 'alpha_lower', 'alpha_upper', 'competence', 'competence_lower', 'competence_upper']
+Sample rows: 5
+ temp    alpha  alpha_lower  alpha_upper  competence  competence_lower  competence_upper
+ 17.0 0.116081     0.079060     0.148622    0.120213          0.015438          0.180922
+ 17.1 0.117982     0.081103     0.150191    0.133805          0.031808          0.194640
+
+FILE: /home/gato/Desktop/BIML_/outputs/tables/BIML_harmonized_biological_lookup.csv
+Columns: ['temp', 'alpha', 'alpha_lower', 'alpha_upper', 'competence', 'competence_lower', 'competence_upper', 'EIP_10', 'EIP_50', 'EIP_90', 'mean_EIP', 'mean_EIP_lower', 'mean_EIP_upper']
+Sample rows: 5
+ temp    alpha  alpha_lower  alpha_upper  competence  competence_lower  competence_upper    EIP_10    EIP_50    EIP_90  mean_EIP  mean_EIP_lower  mean_EIP_upper
+ 17.0 0.116081     0.079060     0.148622    0.120213          0.015438          0.180922 49.307429 59.566310 71.328804 60.025201       53.048464       68.052758
+ 17.1 0.117982     0.081103     0.150191    0.133805          0.031808          0.194640 47.608761 57.494553 68.868201 58.331007       51.828125       65.764913
+
+FILE: /home/gato/Desktop/BIML_/outputs/tables/BIML_mean_EIP_lookup.csv
+Columns: ['temp', 'mean_EIP', 'mean_EIP_lower', 'mean_EIP_upper']
+Sample rows: 5
+ temp  mean_EIP  mean_EIP_lower  mean_EIP_upper
+   17 60.025201       53.048464       68.052758
+   18 43.083255       40.845075       45.174316
+
+FILE: /home/gato/Desktop/BIML_/outputs/tables/biological_input_readiness.csv
+Columns: ['variable', 'role', 'expected_unit', 'required', 'observations', 'missing', 'missing_pct', 'min', 'median', 'max', 'nonfinite']
+Sample rows: 5
+   variable                                    role   expected_unit  required  observations  missing  missing_pct       min    median        max  nonfinite
+ ERA5_T2M_C                 Ambient air temperature degrees Celsius      True          4608        0          0.0 13.780273 24.826626  35.489130          0
+Rainfall_mm Rainfall / potential habitat conditions    mm per month     False          4608        0          0.0  0.000000 73.804488 634.415387          0
+
+FILE: /home/gato/Desktop/BIML_Research/BIML_Stage10_B2_Semantic_Correction/reference/biting_rate_estimates.csv
+Columns: ['Unnamed: 0', 'temp', 'med', 'lower', 'upper']
+Sample rows: 5
+ Unnamed: 0  temp  med  lower  upper
+          1   0.0    0      0      0
+          2   0.1    0      0      0
+
+FILE: /home/gato/Desktop/BIML_Research/BIML_Stage10_B2_Semantic_Correction/reference/task11_5_eip_moments_pooled.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp quantity      mean     lower    median      upper  n_valid  n_total
+pooled    17     mean 60.025201 53.048464 59.827767  68.052758     1000     1000
+pooled    17 variance 74.521513 47.415548 72.519619 117.269100     1000     1000
+
+FILE: /home/gato/Desktop/BIML_Research/BIML_Stage10_B2_Semantic_Correction/reference/task11_5_vector_competence_pooled.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp          quantity     mean    lower   median    upper  n_valid  n_total
+pooled    17 vector_competence 0.115467 0.015438 0.120213 0.180922    10000    10000
+pooled    18 vector_competence 0.254513 0.179145 0.256137 0.318101    10000    10000
+
+FILE: /home/gato/Desktop/BIML_Research/BIML_Stage16A_Manuscript_Figures/data/task11_5_eip_moments_pooled.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp quantity      mean     lower    median      upper  n_valid  n_total
+pooled    17     mean 60.025201 53.048464 59.827767  68.052758     1000     1000
+pooled    17 variance 74.521513 47.415548 72.519619 117.269100     1000     1000
+
+FILE: /home/gato/Desktop/BIML_Research/BIML_Stage16A_Manuscript_Figures/data/task11_5_vector_competence_pooled.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp          quantity     mean    lower   median    upper  n_valid  n_total
+pooled    17 vector_competence 0.115467 0.015438 0.120213 0.180922    10000    10000
+pooled    18 vector_competence 0.254513 0.179145 0.256137 0.318101    10000    10000
+
+FILE: /home/gato/Desktop/BIML_Research/biml_pipeline/outputs/stage02/biological_inventory.csv
+Columns: ['category', 'path', 'bytes', 'sha256', 'columns']
+Sample rows: 5
+        category                                                                            path  bytes                                                           sha256 columns
+B0_Garrett_Jones           /home/gato/Desktop/BIML_Research/biological_models/suh/test_fast_vc.R   1349 85c2689366667d705c4100df3696a25017ad9b51ffec3018a36d008d02fccb17     NaN
+B0_Garrett_Jones /home/gato/Desktop/BIML_Research/biological_models/suh/test_fast_vc_precision.R   1349 833b6c242edcb2e60e4ab3037e83fc8f013036b82718061065f0fec73d69b4c7     NaN
+
+FILE: /home/gato/Desktop/BIML_Research/biml_pipeline/outputs/stage03/biological_source_manifest.csv
+Columns: ['model', 'artifact', 'relative_path', 'size_bytes', 'sha256']
+Sample rows: 5
+     model             artifact                                                          relative_path  size_bytes                                                           sha256
+B1_Villena six_trait_posteriors       villena/results/step08_six_traits/full/ASPF_a_posterior_full.csv     2351214 da926617370da3c433d73a0f613425d9efadae46700815f3316825bd32b86629
+B1_Villena six_trait_posteriors villena/results/step08_six_traits/full/ASPF_bc.succ_posterior_full.csv     1815610 5b20a7031ec497657e546e5eb33cd0ad62d80d8440b9994f2d672abe98bdeaa5
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/biting_rate_estimates.csv
+Columns: ['Unnamed: 0', 'temp', 'med', 'lower', 'upper']
+Sample rows: 5
+ Unnamed: 0  temp  med  lower  upper
+          1   0.0    0      0      0
+          2   0.1    0      0      0
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/biting_rate_comparison.csv
+Columns: ['temp', 'med_original', 'lower_original', 'upper_original', 'med_ours', 'lower_ours', 'upper_ours', 'median_abs_diff', 'lower_abs_diff', 'upper_abs_diff']
+Sample rows: 5
+ temp  med_original  lower_original  upper_original  med_ours  lower_ours  upper_ours  median_abs_diff  lower_abs_diff  upper_abs_diff
+  0.0             0               0               0         0           0           0                0               0               0
+  0.1             0               0               0         0           0           0                0               0               0
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/fast_vc_336_scenarios.csv
+Columns: ['location', 'temp_source', 'temp', 'scaled_temp', 'g1', 'g2', 'feed', 'alpha', 'shape_total_S', 'rate_total_S', 'mu', 'k', 'a0', 'E_j_a0', 'EIP_DD', 'E_j_a0_fixed', 'NA_', 'fast_result', 'error_message', 'absolute_difference', 'relative_difference_pct']
+Sample rows: 5
+location temp_source  temp  scaled_temp       g1       g2   feed    alpha  shape_total_S  rate_total_S       mu        k  a0   E_j_a0  EIP_DD  E_j_a0_fixed   NA_  fast_result  error_message  absolute_difference  relative_difference_pct
+ Kericho      recent  17.5    -1.276896 0.012606 0.030575 feed_1 0.125273       49.53837       0.96286 0.137095 0.386637   0 0.377979      74      0.025737 False     0.371553            NaN             0.006426                 1.700107
+ Kericho      recent  17.5    -1.276896 0.012606 0.030575 feed_1 0.125273       49.53837       0.96286 0.137095 0.386637   1 0.354533      74      0.022505 False     0.348274            NaN             0.006259                 1.765482
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/independent_model_diagnostics.csv
+Columns: ['parameter', 'mean', 'se_mean', 'sd', 'X2.5.', 'X25.', 'X50.', 'X75.', 'X97.5.', 'n_eff', 'Rhat']
+Sample rows: 5
+ parameter      mean  se_mean       sd     X2.5.      X25.      X50.      X75.    X97.5.        n_eff     Rhat
+shape_O[1] 13.700347 0.000789 0.100400 13.503554 13.633929 13.700358 13.766746 13.897984 16178.129790 0.999773
+shape_O[2] 13.700552 0.000797 0.100813 13.502475 13.633066 13.699645 13.767905 13.901027 16011.736152 1.000136
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/independent_posterior_predictions.csv
+Columns: ['outcome', 'temperature', 'DPI', 'median', 'lower_95', 'upper_95']
+Sample rows: 5
+     outcome  temperature  DPI  median      lower_95     upper_95
+S_prevalence           17  0.0     0.0 -1.411479e-17 2.891382e-17
+S_prevalence           17  0.5     0.0 -1.399650e-17 6.073723e-15
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/oocyst_observed_vs_predicted.csv
+Columns: ['temperature', 'DPI', 'n', 'observed_mean', 'observed_median', 'observed_zero_fraction', 'predicted', 'predicted_lower', 'predicted_upper']
+Sample rows: 5
+ temperature  DPI  n  observed_mean  observed_median  observed_zero_fraction  predicted  predicted_lower  predicted_upper
+          17 33.8 30       0.166667                0                0.866667   0.311712         0.096425         1.097534
+          18 25.8 50       0.720000                0                0.700000   0.810204         0.440614         1.839005
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/sporozoite_observed_vs_predicted.csv
+Columns: ['temperature', 'DPI', 'sample', 'positive', 'observed', 'lower', 'upper', 'predicted', 'predicted_lower', 'predicted_upper']
+Sample rows: 5
+ temperature  DPI  sample  positive  observed  lower    upper  predicted  predicted_lower  predicted_upper
+          17 33.9      30         0       0.0    0.0 0.113513   0.007921         0.000139         0.039363
+          17 38.9      30         0       0.0    0.0 0.113513   0.010897         0.000781         0.039872
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task10/empirical_fit_metrics.csv
+Columns: ['outcome', 'MAE', 'RMSE']
+Sample rows: 2
+              outcome      MAE     RMSE
+Sporozoite prevalence 0.064955 0.089657
+Mean oocyst intensity 3.292478 6.268652
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task10/independent_parameter_summary.csv
+Columns: ['temperature', 'parameter', 'mean', 'median', 'lower_95', 'upper_95', 'ESS', 'Rhat']
+Sample rows: 5
+ temperature parameter      mean    median  lower_95  upper_95          ESS     Rhat
+          17   shape_O 13.700347 13.700358 13.503554 13.897984 16178.129790 0.999773
+          18   shape_O 13.700552 13.699645 13.502475 13.901027 16011.736152 1.000136
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task10/input_manifest.csv
+Columns: ['path', 'bytes', 'md5']
+Sample rows: 5
+                              path     bytes                              md5
+     fits/fit_mSOS_pooled_FULL.rds 901207567 0895300905f49bcb20bb88002813da5d
+fits/fit_mSOS_independent_FULL.rds 924337331 235a6166584ce6b6e174a89e37a58371
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task10/model_diagnostics.csv
+Columns: ['model', 'chains', 'iterations_per_chain', 'warmup_per_chain', 'retained_draws', 'parameters_checked', 'max_rhat', 'min_ess', 'rhat_above_1_01', 'ess_below_400', 'rhat_missing', 'divergences', 'max_treedepth_observed']
+Sample rows: 3
+      model  chains  iterations_per_chain  warmup_per_chain  retained_draws  parameters_checked  max_rhat     min_ess  rhat_above_1_01  ess_below_400  rhat_missing  divergences  max_treedepth_observed
+     pooled       4                  5500              3000           10000                  18  1.000963 3797.033815                0              0             0            0                       9
+independent       4                  5500              3000           10000                  88  1.003646  917.280621                0              0             0            0                       8
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/eip50_degree_day_probability.csv
+Columns: ['temp', 'p_EIP50_below_degree_day']
+Sample rows: 5
+ temp  p_EIP50_below_degree_day
+ 17.0                         1
+ 17.1                         1
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/eip_independent_11temps.csv
+Columns: ['model', 'temp', 'EIP', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+      model  temp    EIP      mean    lower    median     upper  n_valid  n_total
+independent    17 EIP_10 23.821158 2.721549 15.407677 53.396999    10000    10000
+independent    17 EIP_50 31.575412 3.507268 19.971459 73.025122    10000    10000
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/eip_pooled_11temps.csv
+Columns: ['model', 'temp', 'EIP', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp    EIP      mean     lower    median     upper  n_valid  n_total
+pooled    17 EIP_10 49.307429 44.236437 49.156968 55.077913    10000    10000
+pooled    17 EIP_50 59.566310 52.754483 59.293717 67.625576    10000    10000
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/eip_pooled_temperature_grid.csv
+Columns: ['model', 'temp', 'EIP', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp    EIP      mean     lower    median     upper  n_valid  n_total
+pooled  17.0 EIP_10 49.307429 44.236437 49.156968 55.077913    10000    10000
+pooled  17.0 EIP_50 59.566310 52.754483 59.293717 67.625576    10000    10000
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_3_brier_by_temperature.csv
+Columns: ['temp', 'n', 'observed_prevalence', 'brier_reference', 'brier_pooled', 'brier_independent', 'bss_pooled', 'bss_independent']
+Sample rows: 5
+ temp   n  observed_prevalence  brier_reference  brier_pooled  brier_independent  bss_pooled  bss_independent
+   17 195             0.010256         0.010151      0.010195           0.010129   -0.004359         0.002217
+   18 720             0.031944         0.030924      0.030645           0.030318    0.009037         0.019582
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_3_brier_overall.csv
+Columns: ['n', 'brier_reference', 'brier_pooled', 'brier_independent', 'bss_pooled', 'bss_independent']
+Sample rows: 1
+   n  brier_reference  brier_pooled  brier_independent  bss_pooled  bss_independent
+4195         0.152867      0.120551            0.12034    0.211395         0.212777
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_3_scored_mosquitoes.csv
+Columns: ['Experiment', 'Cup', 'DPI', 'presence', 'temp', 'DTR', 'gametocytemia', 'pooled_median', 'ind_median', 'reference', 'brier_pooled', 'brier_independent', 'brier_reference']
+Sample rows: 5
+ Experiment  Cup  DPI  presence  temp  DTR  gametocytemia  pooled_median  ind_median  reference  brier_pooled  brier_independent  brier_reference
+          2    1 33.9         0    17    0        0.00126       0.000017    0.007921   0.010256  2.805885e-10           0.000063         0.000105
+          2    1 33.9         0    17    0        0.00126       0.000017    0.007921   0.010256  2.805885e-10           0.000063         0.000105
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_4_empirical_plot_points.csv
+Columns: ['quantity', 'temp', 'DPI', 'n', 'observed', 'lower', 'upper']
+Sample rows: 5
+        quantity  temp  DPI  n  observed  lower    upper
+S_prevalence_ppd    29  6.7 30         0      0 0.115703
+S_prevalence_ppd    28  6.8 30         0      0 0.115703
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_4_posterior_prediction_curves.csv
+Columns: ['model', 'quantity', 'temp', 'DPI', 'lower', 'median', 'upper']
+Sample rows: 5
+ model         quantity  temp  DPI         lower  median        upper
+pooled S_prevalence_ppd    17  0.0 -6.073322e-16       0 7.259960e-16
+pooled S_prevalence_ppd    17  0.5 -6.073322e-16       0 7.259960e-16
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_5_eip_moments_combined.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+      model  temp quantity       mean    lower    median      upper  n_valid  n_total
+independent    17     mean  33.204812 3.649229 26.582446  73.791355     1000     1000
+independent    17 variance 101.932939 0.522886 34.226678 422.529272     1000     1000
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_5_eip_moments_independent.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+      model  temp quantity       mean    lower    median      upper  n_valid  n_total
+independent    17     mean  33.204812 3.649229 26.582446  73.791355     1000     1000
+independent    17 variance 101.932939 0.522886 34.226678 422.529272     1000     1000
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_5_eip_moments_pooled.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp quantity      mean     lower    median      upper  n_valid  n_total
+pooled    17     mean 60.025201 53.048464 59.827767  68.052758     1000     1000
+pooled    17 variance 74.521513 47.415548 72.519619 117.269100     1000     1000
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_5_vector_competence_combined.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+      model  temp          quantity     mean    lower   median    upper  n_valid  n_total
+independent    17 vector_competence 0.071608 0.006461 0.033849 0.249607    10000    10000
+independent    18 vector_competence 0.213941 0.088397 0.213858 0.344203    10000    10000
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_5_vector_competence_independent.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+      model  temp          quantity     mean    lower   median    upper  n_valid  n_total
+independent    17 vector_competence 0.071608 0.006461 0.033849 0.249607    10000    10000
+independent    18 vector_competence 0.213941 0.088397 0.213858 0.344203    10000    10000
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11/task11_5_vector_competence_pooled.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp          quantity     mean    lower   median    upper  n_valid  n_total
+pooled    17 vector_competence 0.115467 0.015438 0.120213 0.180922    10000    10000
+pooled    18 vector_competence 0.254513 0.179145 0.256137 0.318101    10000    10000
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11_invalid_scaling/eip50_degree_day_probability.csv
+Columns: ['temp', 'p_EIP50_below_degree_day']
+Sample rows: 5
+ temp  p_EIP50_below_degree_day
+ 17.0                  0.600000
+ 17.1                  0.636364
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11_invalid_scaling/eip_independent_11temps.csv
+Columns: ['model', 'temp', 'EIP', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+      model  temp    EIP      mean    lower    median     upper  n_valid  n_total
+independent    17 EIP_10 23.821158 2.721549 15.407677 53.396999    10000    10000
+independent    17 EIP_50 31.575412 3.507268 19.971459 73.025122    10000    10000
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11_invalid_scaling/eip_pooled_11temps.csv
+Columns: ['model', 'temp', 'EIP', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp    EIP       mean  lower   median       upper  n_valid  n_total
+pooled    17 EIP_10 514.736969      0 0.278387 3130.709959       10    10000
+pooled    17 EIP_50 524.198666      0 1.104552 3130.709959       10    10000
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task11_invalid_scaling/eip_pooled_temperature_grid.csv
+Columns: ['model', 'temp', 'EIP', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp    EIP       mean  lower   median       upper  n_valid  n_total
+pooled  17.0 EIP_10 514.736969      0 0.278387 3130.709959       10    10000
+pooled  17.0 EIP_50 524.198666      0 1.104552 3130.709959       10    10000
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task9/ppc_summary.csv
+Columns: ['outcome', 'metric', 'observed', 'replicated_median', 'replicated_lower', 'replicated_upper', 'ppc_pvalue']
+Sample rows: 5
+outcome   metric   observed  replicated_median  replicated_lower  replicated_upper  ppc_pvalue
+ oocyst     mean  11.119231          12.301923          9.623029         16.216538       0.782
+ oocyst variance 774.864369         780.410534        407.908877       1765.557269       0.515
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/suh/validation_results/task9/temperature_specific_ppc.csv
+Columns: ['temperature', 'metric', 'observed', 'replicated_median', 'lower_95', 'upper_95', 'tail_probability', 'outside_95']
+Sample rows: 5
+ temperature               metric  observed  replicated_median  lower_95  upper_95  tail_probability  outside_95
+          17          oocyst_mean  0.166667           0.300000  0.000000  1.201667             0.793       False
+          17 oocyst_zero_fraction  0.866667           0.866667  0.633333  1.000000             0.511       False
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_a_diagnostics_test.csv
+Columns: ['trait', 'parameter', 'mean', 'sd', 'q025', 'median', 'q975', 'rhat']
+Sample rows: 4
+trait parameter      mean       sd      q025    median      q975     rhat
+    a        T0  8.967084 1.232780  6.264779  8.955088 11.265451 1.060237
+    a        Tm 43.736441 0.924267 41.683211 43.896096 44.964065 1.014991
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_a_posterior_test.csv
+Columns: ['T0', 'Tm', 'c', 'tau']
+Sample rows: 5
+      T0        Tm        c         tau
+9.493991 42.711492 0.000156 1301.190721
+9.697873 42.269193 0.000161 3168.259643
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_bc.succ_diagnostics_test.csv
+Columns: ['trait', 'parameter', 'mean', 'sd', 'q025', 'median', 'q975', 'rhat']
+Sample rows: 3
+  trait parameter      mean       sd      q025    median      q975     rhat
+bc.succ        T0  7.086277 3.081192  1.203585  7.078851 13.080941 1.004407
+bc.succ        Tm 40.269810 1.216548 37.935627 40.249732 42.651701 1.003725
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_bc.succ_posterior_test.csv
+Columns: ['T0', 'Tm', 'qd']
+Sample rows: 5
+      T0        Tm       qd
+5.411094 40.558995 0.001837
+4.149779 39.986094 0.001843
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_e2a_diagnostics_test.csv
+Columns: ['trait', 'parameter', 'mean', 'sd', 'q025', 'median', 'q975', 'rhat']
+Sample rows: 4
+trait parameter      mean       sd      q025    median      q975     rhat
+  e2a        T0 15.416058 0.373391 14.607414 15.430727 16.110417 1.007935
+  e2a        Tm 37.149225 0.417857 36.395092 37.138568 37.980550 1.025221
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_e2a_posterior_test.csv
+Columns: ['T0', 'Tm', 'qd', 'tau']
+Sample rows: 5
+       T0        Tm       qd       tau
+15.064945 37.763959 0.007322 44.711585
+15.203771 37.938518 0.007236 34.396372
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_efd_diagnostics_test.csv
+Columns: ['trait', 'parameter', 'mean', 'sd', 'q025', 'median', 'q975', 'rhat']
+Sample rows: 4
+trait parameter      mean       sd      q025    median      q975     rhat
+  efd        T0 21.733710 1.640552 18.018515 21.955949 23.888475 1.007262
+  efd        Tm 36.994256 4.628643 25.681258 37.662063 44.180757 1.004017
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_efd_posterior_test.csv
+Columns: ['T0', 'Tm', 'qd', 'tau']
+Sample rows: 5
+       T0        Tm       qd      tau
+19.717472 36.581664 0.071664 0.004393
+21.083819 35.099508 0.143517 0.004730
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_mdr_diagnostics_test.csv
+Columns: ['trait', 'parameter', 'mean', 'sd', 'q025', 'median', 'q975', 'rhat']
+Sample rows: 4
+trait parameter      mean       sd      q025    median      q975     rhat
+  mdr        T0 10.257531 0.245485  9.736446 10.258746 10.696060 1.151327
+  mdr        Tm 38.743124 0.204168 38.350700 38.747794 39.146448 1.071224
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_mdr_posterior_test.csv
+Columns: ['T0', 'Tm', 'c', 'tau']
+Sample rows: 5
+       T0        Tm       c           tau
+10.249809 38.895508 0.00007 124043.567224
+10.145221 38.934487 0.00007 123638.915168
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_mu_diagnostics_test.csv
+Columns: ['trait', 'parameter', 'mean', 'sd', 'q025', 'median', 'q975', 'rhat']
+Sample rows: 4
+trait parameter     mean       sd     q025   median     q975     rhat
+   mu     inter 4.086560 1.286939 2.268451 3.833108 6.635462 1.457056
+   mu   n.slope 0.339066 0.112361 0.183634 0.313560 0.562639 1.454058
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_mu_posterior_test.csv
+Columns: ['inter', 'n.slope', 'qd', 'tau']
+Sample rows: 5
+   inter  n.slope       qd        tau
+7.212264 0.609163 0.011842 279.438682
+7.110259 0.607643 0.011847 281.640234
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_pdr_diagnostics_test.csv
+Columns: ['trait', 'parameter', 'mean', 'sd', 'q025', 'median', 'q975', 'rhat']
+Sample rows: 4
+trait parameter      mean       sd      q025    median      q975     rhat
+  pdr        T0 10.611902 1.697857  7.196207 10.621613 14.028138 1.036735
+  pdr        Tm 42.008063 1.803160 38.234684 42.158018 44.863873 1.048402
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07/ASPF_pdr_posterior_test.csv
+Columns: ['T0', 'Tm', 'c', 'tau']
+Sample rows: 5
+      T0        Tm        c         tau
+8.011675 41.122614 0.000051 7315.155936
+8.225336 40.801157 0.000052 4197.593142
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_curve_full.csv
+Columns: ['temperature_C', 'median', 'q025', 'q975', 'fraction_nonpositive']
+Sample rows: 5
+ temperature_C   median     q025     q975  fraction_nonpositive
+           5.0 0.209250 0.110716 0.359560                     0
+           5.5 0.199301 0.105276 0.342218                     0
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_curve_test.csv
+Columns: ['temperature_C', 'median', 'q025', 'q975', 'fraction_nonpositive']
+Sample rows: 5
+ temperature_C   median     q025     q975  fraction_nonpositive
+           5.0 0.220214 0.112223 0.366823                     0
+           5.5 0.209788 0.107003 0.349812                     0
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_diagnostics_full.csv
+Columns: ['parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 5
+parameter    median      q025      q975     rhat         ess
+     Topt 19.782348 16.399585 22.269083 1.001422 5444.432351
+    inter  0.327032  0.175941  0.560982 1.001330 5424.343610
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_diagnostics_test.csv
+Columns: ['parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 5
+parameter    median      q025      q975     rhat        ess
+     Topt 20.034426 16.492019 22.307386 1.008908 371.125529
+    inter  0.344637  0.177806  0.575382 1.008399 333.683773
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_observed_vs_predicted_full.csv
+Columns: ['temperature_C', 'observed_mu', 'pred_median', 'pred_q025', 'pred_q975']
+Sample rows: 5
+ temperature_C  observed_mu  pred_median  pred_q025  pred_q975
+            21        0.109     0.060942   0.040128   0.078531
+            24        0.113     0.071815   0.051863   0.088528
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_observed_vs_predicted_test.csv
+Columns: ['temperature_C', 'observed_mu', 'pred_median', 'pred_q025', 'pred_q975']
+Sample rows: 5
+ temperature_C  observed_mu  pred_median  pred_q025  pred_q975
+            21        0.109     0.060980   0.039876   0.078631
+            24        0.113     0.071074   0.050033   0.088706
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_posterior_full.csv
+Columns: ['Topt', 'inter', 'mu_min', 'n.slope', 'qd', 'tau']
+Sample rows: 5
+     Topt    inter   mu_min  n.slope       qd         tau
+20.323347 0.368644 0.050492 0.031309 0.000770 1235.677236
+22.046909 0.468987 0.069280 0.036260 0.000822 1249.134317
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step07_mortality_fix/ASPF_mu_positive_posterior_test.csv
+Columns: ['Topt', 'inter', 'mu_min', 'n.slope', 'qd', 'tau']
+Sample rows: 5
+     Topt    inter   mu_min  n.slope       qd         tau
+21.043626 0.430555 0.063974 0.034840 0.000828  660.084465
+22.201334 0.555936 0.054649 0.045158 0.001017 1329.067428
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_a_diagnostics_full.csv
+Columns: ['trait', 'parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 4
+trait parameter    median      q025      q975     rhat         ess
+    a        T0  9.186608  5.657773 12.077579 1.001282 1455.366844
+    a        Tm 43.965171 41.096701 44.958912 1.001671 2048.264502
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_a_posterior_full.csv
+Columns: ['T0', 'Tm', 'c', 'tau', 'chain', 'iteration']
+Sample rows: 5
+      T0        Tm        c         tau  chain  iteration
+6.841054 43.578556 0.000133 1865.271925      1          1
+7.122764 44.371786 0.000133 3661.204955      1          2
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_bc.succ_diagnostics_full.csv
+Columns: ['trait', 'parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 3
+  trait parameter    median      q025      q975     rhat        ess
+bc.succ        T0  8.093730  0.771987 13.417940 1.003579 597.443503
+bc.succ        Tm 39.994196 37.737163 43.233711 1.002781 723.129642
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_bc.succ_posterior_full.csv
+Columns: ['T0', 'Tm', 'qd', 'chain', 'iteration']
+Sample rows: 5
+       T0        Tm       qd  chain  iteration
+11.814987 39.938153 0.002827      1          1
+11.289095 39.511182 0.002805      1          2
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_e2a_diagnostics_full.csv
+Columns: ['trait', 'parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 4
+trait parameter    median      q025      q975     rhat         ess
+  e2a        T0 15.364832 14.591865 16.020375 1.000246 9873.103463
+  e2a        Tm 37.185608 36.450280 38.005668 1.000059 9339.031592
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_e2a_posterior_full.csv
+Columns: ['T0', 'Tm', 'qd', 'tau', 'chain', 'iteration']
+Sample rows: 5
+       T0        Tm       qd       tau  chain  iteration
+14.954373 37.414645 0.007024 46.322653      1          1
+15.273117 36.712252 0.007792 39.576000      1          2
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_efd_diagnostics_full.csv
+Columns: ['trait', 'parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 4
+trait parameter    median      q025      q975     rhat          ess
+  efd        T0 22.134732 17.259339 23.909466 1.002482 11628.286501
+  efd        Tm 37.284072 25.641930 44.211302 1.000345  7188.551197
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_efd_posterior_full.csv
+Columns: ['T0', 'Tm', 'qd', 'tau', 'chain', 'iteration']
+Sample rows: 5
+       T0        Tm       qd      tau  chain  iteration
+23.470035 37.070989 0.191384 0.004039      1          1
+23.419606 38.143094 0.127387 0.004397      1          2
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_mdr_diagnostics_full.csv
+Columns: ['trait', 'parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 4
+trait parameter    median      q025      q975     rhat         ess
+  mdr        T0 10.293581  9.741875 10.776997 1.000678 1565.678367
+  mdr        Tm 38.713041 38.328967 39.164943 1.001107 1601.201216
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_mdr_posterior_full.csv
+Columns: ['T0', 'Tm', 'c', 'tau', 'chain', 'iteration']
+Sample rows: 5
+       T0        Tm        c           tau  chain  iteration
+10.026756 39.030492 0.000069 131525.486077      1          1
+10.114420 38.848239 0.000070 177043.642374      1          2
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_pdr_diagnostics_full.csv
+Columns: ['trait', 'parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 4
+trait parameter    median      q025      q975    rhat         ess
+  pdr        T0 10.380102  6.124449 13.505097 1.00075 2060.502599
+  pdr        Tm 42.321151 38.617210 44.861988 1.00108 2545.937009
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_pdr_posterior_full.csv
+Columns: ['T0', 'Tm', 'c', 'tau', 'chain', 'iteration']
+Sample rows: 5
+       T0        Tm        c         tau  chain  iteration
+13.970613 38.495676 0.000083 4258.149835      1          1
+13.544888 39.132690 0.000083 6620.926432      1          2
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/full/ASPF_six_traits_diagnostics_full.csv
+Columns: ['trait', 'parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 5
+trait parameter    median      q025      q975     rhat         ess
+    a        T0  9.186608  5.657773 12.077579 1.001282 1455.366844
+    a        Tm 43.965171 41.096701 44.958912 1.001671 2048.264502
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_a_diagnostics_test.csv
+Columns: ['trait', 'parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 4
+trait parameter    median      q025      q975     rhat        ess
+    a        T0  9.029385  5.603380 11.785216 1.019573 133.554286
+    a        Tm 43.999210 41.339037 44.957555 1.005640 330.923298
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_a_posterior_test.csv
+Columns: ['T0', 'Tm', 'c', 'tau', 'chain', 'iteration']
+Sample rows: 5
+      T0        Tm        c         tau  chain  iteration
+8.544898 44.423303 0.000140 2172.337010      1          1
+7.953150 44.892768 0.000136 6231.450334      1          2
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_bc.succ_diagnostics_test.csv
+Columns: ['trait', 'parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 3
+  trait parameter    median      q025      q975     rhat       ess
+bc.succ        T0  9.217805  1.843357 13.278609 1.320969 67.330445
+bc.succ        Tm 39.735827 37.936983 42.541161 1.195960 78.019063
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_bc.succ_posterior_test.csv
+Columns: ['T0', 'Tm', 'qd', 'chain', 'iteration']
+Sample rows: 5
+       T0        Tm       qd  chain  iteration
+12.465490 38.870190 0.003407      1          1
+12.764002 39.078186 0.003283      1          2
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_e2a_diagnostics_test.csv
+Columns: ['trait', 'parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 4
+trait parameter    median      q025      q975     rhat       ess
+  e2a        T0 15.383918 14.620270 16.023525 1.002765 717.86162
+  e2a        Tm 37.162481 36.442902 37.927054 1.001646 614.49015
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_e2a_posterior_test.csv
+Columns: ['T0', 'Tm', 'qd', 'tau', 'chain', 'iteration']
+Sample rows: 5
+       T0        Tm       qd       tau  chain  iteration
+14.612953 37.390638 0.007276 29.740402      1          1
+15.389216 37.632831 0.007457 40.909135      1          2
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_efd_diagnostics_test.csv
+Columns: ['trait', 'parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 4
+trait parameter    median      q025     q975     rhat         ess
+  efd        T0 22.133828 17.491877 23.90419 1.003212 1391.923181
+  efd        Tm 37.287980 25.622757 44.05171 1.002718  619.643414
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_efd_posterior_test.csv
+Columns: ['T0', 'Tm', 'qd', 'tau', 'chain', 'iteration']
+Sample rows: 5
+       T0        Tm       qd      tau  chain  iteration
+21.375022 40.274400 0.072417 0.005003      1          1
+21.598570 44.366469 0.060069 0.004926      1          2
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_mdr_diagnostics_test.csv
+Columns: ['trait', 'parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 4
+trait parameter    median      q025      q975     rhat        ess
+  mdr        T0 10.297723  9.809474 10.789915 1.032821 152.707899
+  mdr        Tm 38.714058 38.343483 39.117515 1.035808 197.832288
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_mdr_posterior_test.csv
+Columns: ['T0', 'Tm', 'c', 'tau', 'chain', 'iteration']
+Sample rows: 5
+       T0        Tm        c           tau  chain  iteration
+10.389419 38.570447 0.000072 132988.153105      1          1
+10.432866 38.767284 0.000071 133816.392382      1          2
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_pdr_diagnostics_test.csv
+Columns: ['trait', 'parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 4
+trait parameter    median      q025      q975     rhat        ess
+  pdr        T0 10.624249  6.748665 13.474938 1.017300 212.670941
+  pdr        Tm 42.052396 38.572530 44.792879 1.020099 265.606985
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_pdr_posterior_test.csv
+Columns: ['T0', 'Tm', 'c', 'tau', 'chain', 'iteration']
+Sample rows: 5
+      T0        Tm        c         tau  chain  iteration
+7.989208 43.542951 0.000047 9228.139565      1          1
+8.422596 43.619747 0.000047 4482.431393      1          2
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step08_six_traits/test/ASPF_six_traits_diagnostics_test.csv
+Columns: ['trait', 'parameter', 'median', 'q025', 'q975', 'rhat', 'ess']
+Sample rows: 5
+trait parameter    median      q025      q975     rhat        ess
+    a        T0  9.029385  5.603380 11.785216 1.019573 133.554286
+    a        Tm 43.999210 41.339037 44.957555 1.005640 330.923298
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step09_ASPF/ASPF_reconstructed_curve.csv
+Columns: ['temperature_C', 'median', 'q025', 'q975', 'probability_positive']
+Sample rows: 5
+ temperature_C  median  q025  q975  probability_positive
+           5.0       0     0     0                     0
+           5.1       0     0     0                     0
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step09_ASPF/ASPF_reconstructed_draw_limits.csv
+Columns: ['minimum', 'optimum', 'maximum']
+Sample rows: 5
+ minimum  optimum  maximum
+    22.8     26.1     35.2
+    23.6     27.2     36.7
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step09_ASPF/ASPF_reconstructed_limits_summary.csv
+Columns: ['quantity', 'median', 'q025', 'q975', 'author_median_C']
+Sample rows: 3
+quantity  median  q025    q975  author_median_C
+ minimum    22.2  17.8 23.9025             15.3
+ optimum    26.1  23.7 27.5000             24.9
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step10_efd_hurdle/ASPF_efd_hurdle_posterior.csv
+Columns: ['alpha0', 'alpha1', 'alpha2', 'beta0', 'beta1', 'beta2', 'shape']
+Sample rows: 5
+   alpha0   alpha1   alpha2    beta0    beta1     beta2    shape
+-1.451326 0.036585 0.008035 2.773690 0.042052 -0.004053 2.422208
+-1.258900 0.049921 0.004663 2.838953 0.052709 -0.005129 2.188883
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step10_efd_hurdle/diagnostics.csv
+Columns: ['parameter', 'rhat', 'ess']
+Sample rows: 5
+parameter     rhat          ess
+   alpha0 0.999967 10686.019497
+   alpha1 1.000116 16215.646144
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step15_EFD_ablation/comparison_summary.csv
+Columns: ['model', 'quantity', 'median', 'q025', 'q975']
+Sample rows: 5
+        model quantity  median  q025    q975
+Full_with_EFD  minimum    22.2  17.8 23.9025
+Full_with_EFD  optimum    26.1  23.7 27.5000
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step15_EFD_ablation/full_curve.csv
+Columns: ['temperature_C', 'median', 'q025', 'q975', 'probability_positive']
+Sample rows: 5
+ temperature_C  median  q025  q975  probability_positive
+           5.0       0     0     0                     0
+           5.1       0     0     0                     0
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step15_EFD_ablation/full_draw_limits.csv
+Columns: ['minimum', 'optimum', 'maximum']
+Sample rows: 5
+ minimum  optimum  maximum
+    22.8     26.1     35.2
+    23.6     27.2     36.7
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step15_EFD_ablation/noEFD_curve.csv
+Columns: ['temperature_C', 'median', 'q025', 'q975', 'probability_positive']
+Sample rows: 5
+ temperature_C  median  q025  q975  probability_positive
+           5.0       0     0     0                     0
+           5.1       0     0     0                     0
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/step15_EFD_ablation/noEFD_draw_limits.csv
+Columns: ['minimum', 'optimum', 'maximum']
+Sample rows: 5
+ minimum  optimum  maximum
+    15.2     23.4     37.5
+    15.7     24.2     36.7
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_AGPF_capped_curve.csv
+Columns: ['temperature_C', 'ST_mean', 'ST_median', 'ST_q025', 'ST_q975', 'probability_ST_positive', 'relative_ST_median', 'relative_ST_q025', 'relative_ST_q975']
+Sample rows: 5
+ temperature_C  ST_mean  ST_median  ST_q025  ST_q975  probability_ST_positive  relative_ST_median  relative_ST_q025  relative_ST_q975
+           5.0        0          0        0        0                        0                   0                 0                 0
+           5.1        0          0        0        0                        0                   0                 0                 0
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_AGPF_capped_thermal_limits.csv
+Columns: ['minimum_C', 'optimum_C', 'maximum_C']
+Sample rows: 5
+ minimum_C  optimum_C  maximum_C
+      19.5       24.3       29.0
+      20.0       25.2       28.2
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_AGPF_uncapped_curve.csv
+Columns: ['temperature_C', 'ST_mean', 'ST_median', 'ST_q025', 'ST_q975', 'probability_ST_positive', 'relative_ST_median', 'relative_ST_q025', 'relative_ST_q975']
+Sample rows: 5
+ temperature_C  ST_mean  ST_median  ST_q025  ST_q975  probability_ST_positive  relative_ST_median  relative_ST_q025  relative_ST_q975
+           5.0        0          0        0        0                        0                   0                 0                 0
+           5.1        0          0        0        0                        0                   0                 0                 0
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_AGPF_uncapped_thermal_limits.csv
+Columns: ['minimum_C', 'optimum_C', 'maximum_C']
+Sample rows: 5
+ minimum_C  optimum_C  maximum_C
+      19.5       24.3       29.0
+      20.0       25.2       28.2
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_ASPF_author_posterior_summary.csv
+Columns: ['quantity', 'n', 'mean', 'median', 'q025', 'q25', 'q75', 'q975', 'min', 'max']
+Sample rows: 3
+quantity     n     mean  median    q025  q25  q75  q975  min  max
+ minimum 10000 15.30444    15.3 14.5975 15.1 15.6  16.0 13.5 16.5
+ optimum 10000 24.85540    24.9 23.1000 24.4 25.4  26.2 20.5 27.9
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_ASPF_author_thermal_limits.csv
+Columns: ['minimum_C', 'optimum_C', 'maximum_C']
+Sample rows: 5
+ minimum_C  optimum_C  maximum_C
+      15.7       24.7       36.4
+      15.5       25.0       36.8
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_ASPF_original_trait_data.csv
+Columns: ['X', 'trait.name', 'T', 'trait', 'ref', 'trait2', 'trait2.name', 'specie', 'parasite']
+Sample rows: 5
+ X trait.name    T    trait              ref  trait2  trait2.name        specie      parasite
+ 1        pdr 23.0 0.066667 Eling et al 2001     NaN          NaN An. stephensi P. falciparum
+ 2        pdr 26.0 0.090909 Eling et al 2001     NaN          NaN An. stephensi P. falciparum
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_ASPF_trait_inventory.csv
+Columns: ['trait', 'n']
+Sample rows: 5
+  trait  n
+      a 18
+bc.succ 12
+
+FILE: /home/gato/Desktop/BIML_Research/biological_models/villena/results/villena_AnGamb_Pfalc_ST_posterior.csv
+Columns: ['temperature_C', 'ST_mean', 'ST_median', 'ST_q025', 'ST_q975']
+Sample rows: 5
+ temperature_C  ST_mean  ST_median  ST_q025  ST_q975
+           5.0        0          0        0        0
+           5.1        0          0        0        0
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/biting_rate_estimates.csv
+Columns: ['Unnamed: 0', 'temp', 'med', 'lower', 'upper']
+Sample rows: 5
+ Unnamed: 0  temp  med  lower  upper
+          1   0.0    0      0      0
+          2   0.1    0      0      0
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/data/doi_10.5061_dryad.74839_shapiro/infectious.data.csv
+Columns: ['Block', 'Temperature', 'Day', 'Cup', 'Sporozoite Prevalence']
+Sample rows: 5
+ Block  Temperature  Day  Cup  Sporozoite Prevalence
+     0           21   10    1                      0
+     0           21   10    1                      0
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/biting_rate_comparison.csv
+Columns: ['temp', 'med_original', 'lower_original', 'upper_original', 'med_ours', 'lower_ours', 'upper_ours', 'median_abs_diff', 'lower_abs_diff', 'upper_abs_diff']
+Sample rows: 5
+ temp  med_original  lower_original  upper_original  med_ours  lower_ours  upper_ours  median_abs_diff  lower_abs_diff  upper_abs_diff
+  0.0             0               0               0         0           0           0                0               0               0
+  0.1             0               0               0         0           0           0                0               0               0
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/fast_vc_336_scenarios.csv
+Columns: ['location', 'temp_source', 'temp', 'scaled_temp', 'g1', 'g2', 'feed', 'alpha', 'shape_total_S', 'rate_total_S', 'mu', 'k', 'a0', 'E_j_a0', 'EIP_DD', 'E_j_a0_fixed', 'NA_', 'fast_result', 'error_message', 'absolute_difference', 'relative_difference_pct']
+Sample rows: 5
+location temp_source  temp  scaled_temp       g1       g2   feed    alpha  shape_total_S  rate_total_S       mu        k  a0   E_j_a0  EIP_DD  E_j_a0_fixed   NA_  fast_result  error_message  absolute_difference  relative_difference_pct
+ Kericho      recent  17.5    -1.276896 0.012606 0.030575 feed_1 0.125273       49.53837       0.96286 0.137095 0.386637   0 0.377979      74      0.025737 False     0.371553            NaN             0.006426                 1.700107
+ Kericho      recent  17.5    -1.276896 0.012606 0.030575 feed_1 0.125273       49.53837       0.96286 0.137095 0.386637   1 0.354533      74      0.022505 False     0.348274            NaN             0.006259                 1.765482
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/eip50_degree_day_probability.csv
+Columns: ['temp', 'p_EIP50_below_degree_day']
+Sample rows: 5
+ temp  p_EIP50_below_degree_day
+ 17.0                         1
+ 17.1                         1
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/eip_independent_11temps.csv
+Columns: ['model', 'temp', 'EIP', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+      model  temp    EIP      mean    lower    median     upper  n_valid  n_total
+independent    17 EIP_10 23.821158 2.721549 15.407677 53.396999    10000    10000
+independent    17 EIP_50 31.575412 3.507268 19.971459 73.025122    10000    10000
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/eip_pooled_11temps.csv
+Columns: ['model', 'temp', 'EIP', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp    EIP      mean     lower    median     upper  n_valid  n_total
+pooled    17 EIP_10 49.307429 44.236437 49.156968 55.077913    10000    10000
+pooled    17 EIP_50 59.566310 52.754483 59.293717 67.625576    10000    10000
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/eip_pooled_temperature_grid.csv
+Columns: ['model', 'temp', 'EIP', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp    EIP      mean     lower    median     upper  n_valid  n_total
+pooled  17.0 EIP_10 49.307429 44.236437 49.156968 55.077913    10000    10000
+pooled  17.0 EIP_50 59.566310 52.754483 59.293717 67.625576    10000    10000
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_5_eip_moments_combined.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+      model  temp quantity       mean    lower    median      upper  n_valid  n_total
+independent    17     mean  33.204812 3.649229 26.582446  73.791355     1000     1000
+independent    17 variance 101.932939 0.522886 34.226678 422.529272     1000     1000
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_5_eip_moments_independent.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+      model  temp quantity       mean    lower    median      upper  n_valid  n_total
+independent    17     mean  33.204812 3.649229 26.582446  73.791355     1000     1000
+independent    17 variance 101.932939 0.522886 34.226678 422.529272     1000     1000
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_5_eip_moments_pooled.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp quantity      mean     lower    median      upper  n_valid  n_total
+pooled    17     mean 60.025201 53.048464 59.827767  68.052758     1000     1000
+pooled    17 variance 74.521513 47.415548 72.519619 117.269100     1000     1000
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_5_vector_competence_combined.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+      model  temp          quantity     mean    lower   median    upper  n_valid  n_total
+independent    17 vector_competence 0.071608 0.006461 0.033849 0.249607    10000    10000
+independent    18 vector_competence 0.213941 0.088397 0.213858 0.344203    10000    10000
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_5_vector_competence_independent.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+      model  temp          quantity     mean    lower   median    upper  n_valid  n_total
+independent    17 vector_competence 0.071608 0.006461 0.033849 0.249607    10000    10000
+independent    18 vector_competence 0.213941 0.088397 0.213858 0.344203    10000    10000
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11/task11_5_vector_competence_pooled.csv
+Columns: ['model', 'temp', 'quantity', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp          quantity     mean    lower   median    upper  n_valid  n_total
+pooled    17 vector_competence 0.115467 0.015438 0.120213 0.180922    10000    10000
+pooled    18 vector_competence 0.254513 0.179145 0.256137 0.318101    10000    10000
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11_invalid_scaling/eip50_degree_day_probability.csv
+Columns: ['temp', 'p_EIP50_below_degree_day']
+Sample rows: 5
+ temp  p_EIP50_below_degree_day
+ 17.0                  0.600000
+ 17.1                  0.636364
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11_invalid_scaling/eip_independent_11temps.csv
+Columns: ['model', 'temp', 'EIP', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+      model  temp    EIP      mean    lower    median     upper  n_valid  n_total
+independent    17 EIP_10 23.821158 2.721549 15.407677 53.396999    10000    10000
+independent    17 EIP_50 31.575412 3.507268 19.971459 73.025122    10000    10000
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11_invalid_scaling/eip_pooled_11temps.csv
+Columns: ['model', 'temp', 'EIP', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp    EIP       mean  lower   median       upper  n_valid  n_total
+pooled    17 EIP_10 514.736969      0 0.278387 3130.709959       10    10000
+pooled    17 EIP_50 524.198666      0 1.104552 3130.709959       10    10000
+
+FILE: /home/gato/Desktop/Suh_et_al_mSOS_gambiae_only/validation_results/task11_invalid_scaling/eip_pooled_temperature_grid.csv
+Columns: ['model', 'temp', 'EIP', 'mean', 'lower', 'median', 'upper', 'n_valid', 'n_total']
+Sample rows: 5
+ model  temp    EIP       mean  lower   median       upper  n_valid  n_total
+pooled  17.0 EIP_10 514.736969      0 0.278387 3130.709959       10    10000
+pooled  17.0 EIP_50 524.198666      0 1.104552 3130.709959       10    10000
+
+==============================================================================
+INVENTORY COMPLETED
+==============================================================================
+No files modified.
+No biological calculations performed.

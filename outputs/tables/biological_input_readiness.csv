@@ -1,0 +1,8 @@
+variable,role,expected_unit,required,observations,missing,missing_pct,min,median,max,nonfinite
+ERA5_T2M_C,Ambient air temperature,degrees Celsius,True,4608,0,0.0,13.780272769376264,24.82662607780112,35.48912970751628,0
+Rainfall_mm,Rainfall / potential habitat conditions,mm per month,False,4608,0,0.0,0.0,73.8044876842368,634.4153874074646,0
+RH_pct,Relative humidity / mosquito survival conditions,percent,False,4608,0,0.0,10.85219347071732,67.75402230678209,92.4857615878244,0
+NDVI,Vegetation and habitat context,dimensionless,False,4608,85,1.8446180555555556,-0.8167456388473511,0.5126368459537071,0.8410311205506624,0
+NDWI,Surface moisture context,dimensionless,False,4608,84,1.8229166666666667,-0.7519773840904236,-0.5137389027496806,0.9734066724777222,0
+MODIS_Night_LST_C,Nighttime land surface temperature,degrees Celsius,False,4608,0,0.0,2.909739950790461,18.394337428127997,24.775919885221867,0
+Landsat_LST_C,Land surface temperature,degrees Celsius,False,4608,90,1.953125,-5.431573020698682,32.84725561559782,51.62976803365051,0

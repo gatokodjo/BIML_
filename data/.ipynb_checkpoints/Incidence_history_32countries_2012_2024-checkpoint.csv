@@ -1,0 +1,417 @@
+Country,Year,Malaria_incidence_per_1000,Incidence_lag1
+Angola,2012,153.05,
+Angola,2013,158.1,153.05
+Angola,2014,146.36,158.1
+Angola,2015,174.47,146.36
+Angola,2016,134.05,174.47
+Angola,2017,123.18,134.05
+Angola,2018,111.48,123.18
+Angola,2019,116.09,111.48
+Angola,2020,138.73,116.09
+Angola,2021,133.33,138.73
+Angola,2022,117.08,133.33
+Angola,2023,138.45,117.08
+Angola,2024,138.5,138.45
+Benin,2012,365.18,
+Benin,2013,362.14,365.18
+Benin,2014,361.47,362.14
+Benin,2015,353.67,361.47
+Benin,2016,363.56,353.67
+Benin,2017,351.15,363.56
+Benin,2018,340.61,351.15
+Benin,2019,323.97,340.61
+Benin,2020,313.11,323.97
+Benin,2021,304.18,313.11
+Benin,2022,299.0,304.18
+Benin,2023,299.0,299.0
+Benin,2024,294.53,299.0
+Botswana,2012,0.22,
+Botswana,2013,0.51,0.22
+Botswana,2014,1.22,0.51
+Botswana,2015,0.31,1.22
+Botswana,2016,0.67,0.31
+Botswana,2017,1.96,0.67
+Botswana,2018,0.53,1.96
+Botswana,2019,0.17,0.53
+Botswana,2020,0.7,0.17
+Botswana,2021,0.48,0.7
+Botswana,2022,0.33,0.48
+Botswana,2023,0.47,0.33
+Botswana,2024,0.14,0.47
+Burkina Faso,2012,533.39,
+Burkina Faso,2013,487.14,533.39
+Burkina Faso,2014,446.14,487.14
+Burkina Faso,2015,417.95,446.14
+Burkina Faso,2016,415.92,417.95
+Burkina Faso,2017,711.44,415.92
+Burkina Faso,2018,477.57,711.44
+Burkina Faso,2019,399.91,477.57
+Burkina Faso,2020,378.17,399.91
+Burkina Faso,2021,378.58,378.17
+Burkina Faso,2022,376.6,378.58
+Burkina Faso,2023,361.26,376.6
+Burkina Faso,2024,354.25,361.26
+Burundi,2012,232.24,
+Burundi,2013,234.96,232.24
+Burundi,2014,243.25,234.96
+Burundi,2015,260.88,243.25
+Burundi,2016,258.1,260.88
+Burundi,2017,258.98,258.1
+Burundi,2018,249.77,258.98
+Burundi,2019,245.94,249.77
+Burundi,2020,244.3,245.94
+Burundi,2021,239.58,244.3
+Burundi,2022,237.56,239.58
+Burundi,2023,229.81,237.56
+Burundi,2024,249.25,229.81
+Cameroon,2012,261.14,
+Cameroon,2013,271.1,261.14
+Cameroon,2014,271.04,271.1
+Cameroon,2015,271.06,271.04
+Cameroon,2016,265.71,271.06
+Cameroon,2017,268.54,265.71
+Cameroon,2018,269.21,268.54
+Cameroon,2019,250.82,269.21
+Cameroon,2020,255.66,250.82
+Cameroon,2021,258.61,255.66
+Cameroon,2022,260.09,258.61
+Cameroon,2023,255.47,260.09
+Cameroon,2024,254.08,255.47
+Central African Republic,2012,434.79,
+Central African Republic,2013,427.32,434.79
+Central African Republic,2014,420.39,427.32
+Central African Republic,2015,404.9,420.39
+Central African Republic,2016,395.97,404.9
+Central African Republic,2017,387.44,395.97
+Central African Republic,2018,385.26,387.44
+Central African Republic,2019,383.29,385.26
+Central African Republic,2020,376.08,383.29
+Central African Republic,2021,364.25,376.08
+Central African Republic,2022,354.5,364.25
+Central African Republic,2023,346.22,354.5
+Central African Republic,2024,346.22,346.22
+Chad,2012,215.47,
+Chad,2013,208.02,215.47
+Chad,2014,212.01,208.02
+Chad,2015,215.03,212.01
+Chad,2016,215.75,215.03
+Chad,2017,220.1,215.75
+Chad,2018,224.99,220.1
+Chad,2019,223.85,224.99
+Chad,2020,219.63,223.85
+Chad,2021,212.47,219.63
+Chad,2022,209.09,212.47
+Chad,2023,200.02,209.09
+Chad,2024,206.14,200.02
+Congo,2012,215.9,
+Congo,2013,218.19,215.9
+Congo,2014,213.06,218.19
+Congo,2015,237.78,213.06
+Congo,2016,229.08,237.78
+Congo,2017,226.19,229.08
+Congo,2018,232.44,226.19
+Congo,2019,243.1,232.44
+Congo,2020,234.25,243.1
+Congo,2021,216.07,234.25
+Congo,2022,210.79,216.07
+Congo,2023,205.12,210.79
+Congo,2024,221.02,205.12
+Côte d'Ivoire,2012,375.19,
+Côte d'Ivoire,2013,287.39,375.19
+Côte d'Ivoire,2014,275.05,287.39
+Côte d'Ivoire,2015,283.81,275.05
+Côte d'Ivoire,2016,281.02,283.81
+Côte d'Ivoire,2017,277.3,281.02
+Côte d'Ivoire,2018,276.3,277.3
+Côte d'Ivoire,2019,285.93,276.3
+Côte d'Ivoire,2020,276.93,285.93
+Côte d'Ivoire,2021,270.65,276.93
+Côte d'Ivoire,2022,266.58,270.65
+Côte d'Ivoire,2023,264.8,266.58
+Côte d'Ivoire,2024,258.9,264.8
+Democratic Republic of the Congo,2012,335.8,
+Democratic Republic of the Congo,2013,310.49,335.8
+Democratic Republic of the Congo,2014,297.36,310.49
+Democratic Republic of the Congo,2015,308.04,297.36
+Democratic Republic of the Congo,2016,321.3,308.04
+Democratic Republic of the Congo,2017,333.74,321.3
+Democratic Republic of the Congo,2018,331.3,333.74
+Democratic Republic of the Congo,2019,300.8,331.3
+Democratic Republic of the Congo,2020,295.66,300.8
+Democratic Republic of the Congo,2021,283.64,295.66
+Democratic Republic of the Congo,2022,285.5,283.64
+Democratic Republic of the Congo,2023,284.08,285.5
+Democratic Republic of the Congo,2024,282.67,284.08
+Equatorial Guinea,2012,312.77,
+Equatorial Guinea,2013,333.66,312.77
+Equatorial Guinea,2014,313.81,333.66
+Equatorial Guinea,2015,318.13,313.81
+Equatorial Guinea,2016,345.21,318.13
+Equatorial Guinea,2017,346.29,345.21
+Equatorial Guinea,2018,331.58,346.29
+Equatorial Guinea,2019,321.2,331.58
+Equatorial Guinea,2020,304.37,321.2
+Equatorial Guinea,2021,294.45,304.37
+Equatorial Guinea,2022,285.7,294.45
+Equatorial Guinea,2023,285.5,285.7
+Equatorial Guinea,2024,286.08,285.5
+Ethiopia,2012,159.67,
+Ethiopia,2013,184.1,159.67
+Ethiopia,2014,163.86,184.1
+Ethiopia,2015,185.36,163.86
+Ethiopia,2016,182.55,185.36
+Ethiopia,2017,184.66,182.55
+Ethiopia,2018,186.73,184.66
+Ethiopia,2019,190.72,186.73
+Ethiopia,2020,193.57,190.72
+Ethiopia,2021,166.33,193.57
+Ethiopia,2022,132.39,166.33
+Ethiopia,2023,179.32,132.39
+Ethiopia,2024,172.34,179.32
+Gabon,2012,200.15,
+Gabon,2013,199.19,200.15
+Gabon,2014,193.87,199.19
+Gabon,2015,202.51,193.87
+Gabon,2016,189.78,202.51
+Gabon,2017,215.31,189.78
+Gabon,2018,212.76,215.31
+Gabon,2019,215.27,212.76
+Gabon,2020,208.74,215.27
+Gabon,2021,189.19,208.74
+Gabon,2022,181.79,189.19
+Gabon,2023,191.3,181.79
+Gabon,2024,187.0,191.3
+Gambia,2012,256.47,
+Gambia,2013,204.12,256.47
+Gambia,2014,202.3,204.12
+Gambia,2015,210.62,202.3
+Gambia,2016,214.3,210.62
+Gambia,2017,217.09,214.3
+Gambia,2018,222.0,217.09
+Gambia,2019,217.22,222.0
+Gambia,2020,213.12,217.22
+Gambia,2021,206.65,213.12
+Gambia,2022,188.68,206.65
+Gambia,2023,194.92,188.68
+Gambia,2024,195.77,194.92
+Ghana,2012,367.32,
+Ghana,2013,344.33,367.32
+Ghana,2014,334.0,344.33
+Ghana,2015,333.82,334.0
+Ghana,2016,348.7,333.82
+Ghana,2017,350.55,348.7
+Ghana,2018,337.42,350.55
+Ghana,2019,321.88,337.42
+Ghana,2020,304.94,321.88
+Ghana,2021,299.27,304.94
+Ghana,2022,298.19,299.27
+Ghana,2023,291.01,298.19
+Ghana,2024,294.25,291.01
+Guinea,2012,431.75,
+Guinea,2013,413.73,431.75
+Guinea,2014,396.69,413.73
+Guinea,2015,384.39,396.69
+Guinea,2016,374.39,384.39
+Guinea,2017,367.77,374.39
+Guinea,2018,356.23,367.77
+Guinea,2019,345.28,356.23
+Guinea,2020,345.14,345.28
+Guinea,2021,345.92,345.14
+Guinea,2022,342.31,345.92
+Guinea,2023,325.29,342.31
+Guinea,2024,321.89,325.29
+Kenya,2012,84.23,
+Kenya,2013,85.44,84.23
+Kenya,2014,97.71,85.44
+Kenya,2015,94.12,97.71
+Kenya,2016,77.26,94.12
+Kenya,2017,72.79,77.26
+Kenya,2018,71.86,72.79
+Kenya,2019,65.09,71.86
+Kenya,2020,85.0,65.09
+Kenya,2021,62.48,85.0
+Kenya,2022,82.09,62.48
+Kenya,2023,73.77,82.09
+Kenya,2024,77.14,73.77
+Liberia,2012,266.12,
+Liberia,2013,260.75,266.12
+Liberia,2014,250.86,260.75
+Liberia,2015,269.31,250.86
+Liberia,2016,260.92,269.31
+Liberia,2017,264.44,260.92
+Liberia,2018,268.08,264.44
+Liberia,2019,247.4,268.08
+Liberia,2020,244.53,247.4
+Liberia,2021,240.98,244.53
+Liberia,2022,246.1,240.98
+Liberia,2023,252.08,246.1
+Liberia,2024,252.41,252.08
+Madagascar,2012,70.79,
+Madagascar,2013,63.67,70.79
+Madagascar,2014,49.8,63.67
+Madagascar,2015,73.55,49.8
+Madagascar,2016,63.37,73.55
+Madagascar,2017,63.21,63.37
+Madagascar,2018,53.61,63.21
+Madagascar,2019,44.76,53.61
+Madagascar,2020,52.28,44.76
+Madagascar,2021,27.74,52.28
+Madagascar,2022,40.89,27.74
+Madagascar,2023,49.4,40.89
+Madagascar,2024,69.55,49.4
+Malawi,2012,354.96,
+Malawi,2013,306.13,354.96
+Malawi,2014,287.7,306.13
+Malawi,2015,288.7,287.7
+Malawi,2016,310.28,288.7
+Malawi,2017,291.23,310.28
+Malawi,2018,291.07,291.23
+Malawi,2019,292.76,291.07
+Malawi,2020,283.01,292.76
+Malawi,2021,279.51,283.01
+Malawi,2022,278.59,279.51
+Malawi,2023,267.57,278.59
+Malawi,2024,264.23,267.57
+Mali,2012,424.29,
+Mali,2013,441.0,424.29
+Mali,2014,429.54,441.0
+Mali,2015,410.31,429.54
+Mali,2016,410.08,410.31
+Mali,2017,415.74,410.08
+Mali,2018,407.71,415.74
+Mali,2019,385.35,407.71
+Mali,2020,377.01,385.35
+Mali,2021,378.2,377.01
+Mali,2022,356.27,378.2
+Mali,2023,353.49,356.27
+Mali,2024,353.49,353.49
+Mozambique,2012,375.23,
+Mozambique,2013,372.38,375.23
+Mozambique,2014,369.11,372.38
+Mozambique,2015,372.35,369.11
+Mozambique,2016,368.57,372.35
+Mozambique,2017,356.56,368.57
+Mozambique,2018,350.28,356.56
+Mozambique,2019,332.56,350.28
+Mozambique,2020,330.78,332.56
+Mozambique,2021,312.45,330.78
+Mozambique,2022,305.14,312.45
+Mozambique,2023,305.14,305.14
+Mozambique,2024,305.14,305.14
+Namibia,2012,3.13,
+Namibia,2013,4.39,3.13
+Namibia,2014,3.1,4.39
+Namibia,2015,2.59,3.1
+Namibia,2016,1.98,2.59
+Namibia,2017,5.15,1.98
+Namibia,2018,13.97,5.15
+Namibia,2019,2.71,13.97
+Namibia,2020,5.67,2.71
+Namibia,2021,9.56,5.67
+Namibia,2022,7.38,9.56
+Namibia,2023,8.24,7.38
+Namibia,2024,7.2,8.24
+Nigeria,2012,316.22,
+Nigeria,2013,297.83,316.22
+Nigeria,2014,287.7,297.83
+Nigeria,2015,285.0,287.7
+Nigeria,2016,284.83,285.0
+Nigeria,2017,288.98,284.83
+Nigeria,2018,280.22,288.98
+Nigeria,2019,289.98,280.22
+Nigeria,2020,281.6,289.98
+Nigeria,2021,276.82,281.6
+Nigeria,2022,274.78,276.82
+Nigeria,2023,264.93,274.78
+Nigeria,2024,260.46,264.93
+Rwanda,2012,59.69,
+Rwanda,2013,109.49,59.69
+Rwanda,2014,105.73,109.49
+Rwanda,2015,106.98,105.73
+Rwanda,2016,92.89,106.98
+Rwanda,2017,76.85,92.89
+Rwanda,2018,74.15,76.85
+Rwanda,2019,71.67,74.15
+Rwanda,2020,94.3,71.67
+Rwanda,2021,88.69,94.3
+Rwanda,2022,85.57,88.69
+Rwanda,2023,87.51,85.57
+Rwanda,2024,102.42,87.51
+Senegal,2012,53.04,
+Senegal,2013,57.87,53.04
+Senegal,2014,37.65,57.87
+Senegal,2015,69.27,37.65
+Senegal,2016,45.5,69.27
+Senegal,2017,52.06,45.5
+Senegal,2018,36.46,52.06
+Senegal,2019,41.11,36.46
+Senegal,2020,48.28,41.11
+Senegal,2021,27.54,48.28
+Senegal,2022,38.1,27.54
+Senegal,2023,42.86,38.1
+Senegal,2024,62.79,42.86
+Sierra Leone,2012,413.44,
+Sierra Leone,2013,396.12,413.44
+Sierra Leone,2014,380.3,396.12
+Sierra Leone,2015,381.71,380.3
+Sierra Leone,2016,373.17,381.71
+Sierra Leone,2017,358.48,373.17
+Sierra Leone,2018,350.82,358.48
+Sierra Leone,2019,339.77,350.82
+Sierra Leone,2020,338.92,339.77
+Sierra Leone,2021,338.04,338.92
+Sierra Leone,2022,327.94,338.04
+Sierra Leone,2023,323.25,327.94
+Sierra Leone,2024,314.9,323.25
+Togo,2012,336.21,
+Togo,2013,369.59,336.21
+Togo,2014,368.98,369.59
+Togo,2015,367.82,368.98
+Togo,2016,366.52,367.82
+Togo,2017,356.09,366.52
+Togo,2018,349.75,356.09
+Togo,2019,325.76,349.75
+Togo,2020,320.65,325.76
+Togo,2021,305.82,320.65
+Togo,2022,304.5,305.82
+Togo,2023,303.5,304.5
+Togo,2024,295.1,303.5
+Uganda,2012,349.79,
+Uganda,2013,310.27,349.79
+Uganda,2014,292.11,310.27
+Uganda,2015,303.04,292.11
+Uganda,2016,315.21,303.04
+Uganda,2017,324.07,315.21
+Uganda,2018,322.45,324.07
+Uganda,2019,293.0,322.45
+Uganda,2020,283.92,293.0
+Uganda,2021,280.49,283.92
+Uganda,2022,280.87,280.49
+Uganda,2023,269.25,280.87
+Uganda,2024,267.95,269.25
+United Republic of Tanzania,2012,121.45,
+United Republic of Tanzania,2013,131.8,121.45
+United Republic of Tanzania,2014,144.07,131.8
+United Republic of Tanzania,2015,141.8,144.07
+United Republic of Tanzania,2016,130.07,141.8
+United Republic of Tanzania,2017,114.7,130.07
+United Republic of Tanzania,2018,81.75,114.7
+United Republic of Tanzania,2019,87.1,81.75
+United Republic of Tanzania,2020,123.35,87.1
+United Republic of Tanzania,2021,118.74,123.35
+United Republic of Tanzania,2022,97.61,118.74
+United Republic of Tanzania,2023,109.24,97.61
+United Republic of Tanzania,2024,136.73,109.24
+Zimbabwe,2012,54.46,
+Zimbabwe,2013,78.27,54.46
+Zimbabwe,2014,84.43,78.27
+Zimbabwe,2015,89.59,84.43
+Zimbabwe,2016,74.16,89.59
+Zimbabwe,2017,70.71,74.16
+Zimbabwe,2018,71.68,70.71
+Zimbabwe,2019,61.84,71.68
+Zimbabwe,2020,83.83,61.84
+Zimbabwe,2021,45.56,83.83
+Zimbabwe,2022,59.89,45.56
+Zimbabwe,2023,63.39,59.89
+Zimbabwe,2024,75.44,63.39

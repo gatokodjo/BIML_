@@ -1,0 +1,344 @@
+IndicatorCode,Indicator,ValueType,ParentLocationCode,ParentLocation,Location type,SpatialDimValueCode,Location,Period type,Period,IsLatestYear,Dim1 type,Dim1,Dim1ValueCode,Dim2 type,Dim2,Dim2ValueCode,Dim3 type,Dim3,Dim3ValueCode,DataSourceDimValueCode,DataSource,FactValueNumericPrefix,FactValueNumeric,FactValueUoM,FactValueNumericLowPrefix,FactValueNumericLow,FactValueNumericHighPrefix,FactValueNumericHigh,Value,FactValueTranslationID,FactComments,Language,DateModified
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2024,true,,,,,,,,,,,,,1228083,,,,,,1 228 083,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2024,true,,,,,,,,,,,,,1773259,,,,,,1 773 259,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2024,true,,,,,,,,,,,,,10750565,,,,,,10 750 565,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2024,true,,,,,,,,,,,,,11215497,,,,,,11 215 497,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2024,true,,,,,,,,,,,,,11710220,,,,,,11 710 220,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2024,true,,,,,,,,,,,,,11880003,,,,,,11 880 003,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2024,true,,,,,,,,,,,,,12836,,,,,,12 836,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2024,true,,,,,,,,,,,,,147899,,,,,,147 899,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2024,true,,,,,,,,,,,,,15756542,,,,,,15 756 542,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2024,true,,,,,,,,,,,,,17606961,,,,,,17 606 961,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2024,true,,,,,,,,,,,,,18153885,,,,,,18 153 885,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2024,true,,,,,,,,,,,,,18426777,,,,,,18 426 777,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2024,true,,,,,,,,,,,,,2659875,,,,,,2 659 875,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2024,true,,,,,,,,,,,,,21014998,,,,,,21 014 998,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2024,true,,,,,,,,,,,,,21508392,,,,,,21 508 392,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2024,true,,,,,,,,,,,,,23204919,,,,,,23 204 919,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2024,true,,,,,,,,,,,,,241663,,,,,,241 663,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2024,true,,,,,,,,,,,,,29241906,,,,,,29 241 906,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2024,true,,,,,,,,,,,,,3490561,,,,,,3 490 561,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2024,true,,,,,,,,,,,,,3697256,,,,,,3 697 256,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2024,true,,,,,,,,,,,,,3736678,,,,,,3 736 678,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2024,true,,,,,,,,,,,,,3949031,,,,,,3 949 031,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2024,true,,,,,,,,,,,,,33349112,,,,,,33 349 112,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2024,true,,,,,,,,,,,,,353692,,,,,,353 692,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2024,true,,,,,,,,,,,,,4417723,,,,,,4 417 723,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2024,true,,,,,,,,,,,,,4974879,,,,,,4 974 879,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2024,true,,,,,,,,,,,,,4986055,,,,,,4 986 055,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2024,true,,,,,,,,,,,,,400032,,,,,,400 032,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2024,true,,,,,,,,,,,,,49382922,,,,,,49 382 922,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2024,true,,,,,,,,,,,,,5231002,,,,,,5 231 002,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2024,true,,,,,,,,,,,,,5796106,,,,,,5 796 106,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2024,true,,,,,,,,,,,,,57706,,,,,,57 706,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2024,true,,,,,,,,,,,,,773670,,,,,,773 670,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2024,true,,,,,,,,,,,,,8121307,,,,,,8 121 307,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2024,true,,,,,,,,,,,,,951304,,,,,,951 304,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2023,false,,,,,,,,,,,,,1155691,,,,,,1 155 691,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2023,false,,,,,,,,,,,,,1197321,,,,,,1 197 321,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2023,false,,,,,,,,,,,,,1544769,,,,,,1 544 769,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2023,false,,,,,,,,,,,,,10854561,,,,,,10 854 561,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2023,false,,,,,,,,,,,,,10862902,,,,,,10 862 902,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2023,false,,,,,,,,,,,,,11949730,,,,,,11 949 730,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2023,false,,,,,,,,,,,,,13905437,,,,,,13 905 437,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2023,false,,,,,,,,,,,,,15265405,,,,,,15 265 405,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2023,false,,,,,,,,,,,,,15965481,,,,,,15 965 481,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2023,false,,,,,,,,,,,,,150425,,,,,,150 425,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2023,false,,,,,,,,,,,,,16885,,,,,,16 885,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2023,false,,,,,,,,,,,,,17073745,,,,,,17 073 745,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2023,false,,,,,,,,,,,,,19410521,,,,,,19 410 521,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2023,false,,,,,,,,,,,,,2048775,,,,,,2 048 775,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2023,false,,,,,,,,,,,,,2793655,,,,,,2 793 655,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2023,false,,,,,,,,,,,,,208456,,,,,,208 456,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2023,false,,,,,,,,,,,,,21239449,,,,,,21 239 449,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2023,false,,,,,,,,,,,,,21599012,,,,,,21 599 012,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2023,false,,,,,,,,,,,,,25945411,,,,,,25 945 411,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2023,false,,,,,,,,,,,,,28323479,,,,,,28 323 479,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2023,false,,,,,,,,,,,,,3219405,,,,,,3 219 405,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2023,false,,,,,,,,,,,,,3310497,,,,,,3 310 497,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2023,false,,,,,,,,,,,,,3825451,,,,,,3 825 451,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2023,false,,,,,,,,,,,,,3972044,,,,,,3 972 044,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2023,false,,,,,,,,,,,,,334205,,,,,,334 205,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2023,false,,,,,,,,,,,,,35179110,,,,,,35 179 110,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2023,false,,,,,,,,,,,,,4293184,,,,,,4 293 184,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2023,false,,,,,,,,,,,,,4623872,,,,,,4 623 872,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2023,false,,,,,,,,,,,,,4850510,,,,,,4 850 510,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2023,false,,,,,,,,,,,,,40508834,,,,,,40 508 834,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2023,false,,,,,,,,,,,,,437261,,,,,,437 261,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2023,false,,,,,,,,,,,,,5216664,,,,,,5 216 664,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2023,false,,,,,,,,,,,,,6062334,,,,,,6 062 334,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2023,false,,,,,,,,,,,,,68109,,,,,,68 109,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2023,false,,,,,,,,,,,,,853363,,,,,,853 363,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2022,false,,,,,,,,,,,,,1214098,,,,,,1 214 098,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2022,false,,,,,,,,,,,,,10899799,,,,,,10 899 799,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2022,false,,,,,,,,,,,,,10930585,,,,,,10 930 585,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2022,false,,,,,,,,,,,,,13508830,,,,,,13 508 830,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2022,false,,,,,,,,,,,,,14378061,,,,,,14 378 061,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2022,false,,,,,,,,,,,,,15533289,,,,,,15 533 289,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2022,false,,,,,,,,,,,,,156958,,,,,,156 958,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2022,false,,,,,,,,,,,,,158244,,,,,,158 244,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2022,false,,,,,,,,,,,,,16172933,,,,,,16 172 933,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2022,false,,,,,,,,,,,,,16376877,,,,,,16 376 877,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2022,false,,,,,,,,,,,,,17295,,,,,,17 295,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2022,false,,,,,,,,,,,,,17324387,,,,,,17 324 387,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2022,false,,,,,,,,,,,,,19062775,,,,,,19 062 775,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2022,false,,,,,,,,,,,,,2569745,,,,,,2 569 745,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2022,false,,,,,,,,,,,,,2755046,,,,,,2 755 046,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2022,false,,,,,,,,,,,,,2979539,,,,,,2 979 539,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2022,false,,,,,,,,,,,,,23225280,,,,,,23 225 280,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2022,false,,,,,,,,,,,,,3352129,,,,,,3 352 129,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2022,false,,,,,,,,,,,,,3536879,,,,,,3 536 879,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2022,false,,,,,,,,,,,,,30886839,,,,,,30 886 839,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2022,false,,,,,,,,,,,,,32983459,,,,,,32 983 459,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2022,false,,,,,,,,,,,,,369364,,,,,,369 364,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2022,false,,,,,,,,,,,,,39367459,,,,,,39 367 459,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2022,false,,,,,,,,,,,,,4059542,,,,,,4 059 542,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2022,false,,,,,,,,,,,,,4248332,,,,,,4 248 332,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2022,false,,,,,,,,,,,,,4549696,,,,,,4 549 696,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2022,false,,,,,,,,,,,,,5117823,,,,,,5 117 823,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2022,false,,,,,,,,,,,,,5162188,,,,,,5 162 188,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2022,false,,,,,,,,,,,,,5572383,,,,,,5 572 383,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2022,false,,,,,,,,,,,,,501423,,,,,,501 423,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2022,false,,,,,,,,,,,,,713242,,,,,,713 242,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2022,false,,,,,,,,,,,,,77682,,,,,,77 682,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2022,false,,,,,,,,,,,,,823100,,,,,,823 100,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2022,false,,,,,,,,,,,,,9001730,,,,,,9 001 730,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2022,false,,,,,,,,,,,,,985957,,,,,,985 957,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2021,false,,,,,,,,,,,,,1507881,,,,,,1 507 881,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2021,false,,,,,,,,,,,,,12071445,,,,,,12 071 445,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2021,false,,,,,,,,,,,,,12379963,,,,,,12 379 963,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2021,false,,,,,,,,,,,,,12894,,,,,,12 894,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2021,false,,,,,,,,,,,,,13303404,,,,,,13 303 404,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2021,false,,,,,,,,,,,,,13748015,,,,,,13 748 015,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2021,false,,,,,,,,,,,,,13957528,,,,,,13 957 528,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2021,false,,,,,,,,,,,,,15624710,,,,,,15 624 710,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2021,false,,,,,,,,,,,,,17892801,,,,,,17 892 801,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2021,false,,,,,,,,,,,,,19238020,,,,,,19 238 020,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2021,false,,,,,,,,,,,,,2584679,,,,,,2 584 679,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2021,false,,,,,,,,,,,,,2632540,,,,,,2 632 540,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2021,false,,,,,,,,,,,,,20794633,,,,,,20 794 633,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2021,false,,,,,,,,,,,,,229360,,,,,,229 360,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2021,false,,,,,,,,,,,,,25048071,,,,,,25 048 071,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2021,false,,,,,,,,,,,,,263202,,,,,,263 202,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2021,false,,,,,,,,,,,,,3069218,,,,,,3 069 218,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2021,false,,,,,,,,,,,,,3091060,,,,,,3 091 060,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2021,false,,,,,,,,,,,,,3174623,,,,,,3 174 623,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2021,false,,,,,,,,,,,,,3965763,,,,,,3 965 763,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2021,false,,,,,,,,,,,,,30202722,,,,,,30 202 722,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2021,false,,,,,,,,,,,,,32438379,,,,,,32 438 379,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2021,false,,,,,,,,,,,,,4162127,,,,,,4 162 127,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2021,false,,,,,,,,,,,,,4571944,,,,,,4 571 944,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2021,false,,,,,,,,,,,,,4924702,,,,,,4 924 702,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2021,false,,,,,,,,,,,,,5192692,,,,,,5 192 692,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2021,false,,,,,,,,,,,,,5576953,,,,,,5 576 953,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2021,false,,,,,,,,,,,,,593519,,,,,,593 519,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2021,false,,,,,,,,,,,,,6506016,,,,,,6 506 016,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2021,false,,,,,,,,,,,,,609029,,,,,,609 029,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2021,false,,,,,,,,,,,,,9629227,,,,,,9 629 227,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2021,false,,,,,,,,,,,,,922001,,,,,,922 001,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2021,false,,,,,,,,,,,,,9825,,,,,,9825,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2020,false,,,,,,,,,,,,,1389065,,,,,,1 389 065,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2020,false,,,,,,,,,,,,,1860018,,,,,,1 860 018,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2020,false,,,,,,,,,,,,,10433887,,,,,,10 433 887,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2020,false,,,,,,,,,,,,,12645404,,,,,,12 645 404,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2020,false,,,,,,,,,,,,,13989836,,,,,,13 989 836,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2020,false,,,,,,,,,,,,,14060361,,,,,,14 060 361,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2020,false,,,,,,,,,,,,,146262,,,,,,146 262,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2020,false,,,,,,,,,,,,,15357249,,,,,,15 357 249,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2020,false,,,,,,,,,,,,,15491235,,,,,,15 491 235,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2020,false,,,,,,,,,,,,,19516184,,,,,,19 516 184,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2020,false,,,,,,,,,,,,,2206842,,,,,,2 206 842,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2020,false,,,,,,,,,,,,,2730158,,,,,,2 730 158,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2020,false,,,,,,,,,,,,,2908748,,,,,,2 908 748,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2020,false,,,,,,,,,,,,,2955271,,,,,,2 955 271,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2020,false,,,,,,,,,,,,,206908,,,,,,206 908,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2020,false,,,,,,,,,,,,,22471902,,,,,,22 471 902,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2020,false,,,,,,,,,,,,,258145,,,,,,258 145,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2020,false,,,,,,,,,,,,,27370935,,,,,,27 370 935,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2020,false,,,,,,,,,,,,,27434176,,,,,,27 434 176,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2020,false,,,,,,,,,,,,,27979,,,,,,27 979,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2020,false,,,,,,,,,,,,,3431504,,,,,,3 431 504,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2020,false,,,,,,,,,,,,,3572587,,,,,,3 572 587,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2020,false,,,,,,,,,,,,,3838721,,,,,,3 838 721,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2020,false,,,,,,,,,,,,,32954190,,,,,,32 954 190,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2020,false,,,,,,,,,,,,,4382988,,,,,,4 382 988,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2020,false,,,,,,,,,,,,,4567624,,,,,,4 567 624,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2020,false,,,,,,,,,,,,,537205,,,,,,537 205,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2020,false,,,,,,,,,,,,,6879911,,,,,,6 879 911,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2020,false,,,,,,,,,,,,,7110541,,,,,,7 110 541,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2020,false,,,,,,,,,,,,,7992806,,,,,,7 992 806,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2020,false,,,,,,,,,,,,,8571445,,,,,,8 571 445,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2020,false,,,,,,,,,,,,,9148,,,,,,9148,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2019,false,,,,,,,,,,,,,1324299,,,,,,1 324 299,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2019,false,,,,,,,,,,,,,1726913,,,,,,1 726 913,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2019,false,,,,,,,,,,,,,10994966,,,,,,10 994 966,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2019,false,,,,,,,,,,,,,11340409,,,,,,11 340 409,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2019,false,,,,,,,,,,,,,11977117,,,,,,11 977 117,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2019,false,,,,,,,,,,,,,14341390,,,,,,14 341 390,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2019,false,,,,,,,,,,,,,16214258,,,,,,16 214 258,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2019,false,,,,,,,,,,,,,16564,,,,,,16 564,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2019,false,,,,,,,,,,,,,18116942,,,,,,18 116 942,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2019,false,,,,,,,,,,,,,2010398,,,,,,2 010 398,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2019,false,,,,,,,,,,,,,2779742,,,,,,2 779 742,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2019,false,,,,,,,,,,,,,2866191,,,,,,2 866 191,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2019,false,,,,,,,,,,,,,20997372,,,,,,20 997 372,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2019,false,,,,,,,,,,,,,21180727,,,,,,21 180 727,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2019,false,,,,,,,,,,,,,214286,,,,,,214 286,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2019,false,,,,,,,,,,,,,25756835,,,,,,25 756 835,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2019,false,,,,,,,,,,,,,29489245,,,,,,29 489 245,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2019,false,,,,,,,,,,,,,295367,,,,,,295 367,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2019,false,,,,,,,,,,,,,3393641,,,,,,3 393 641,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2019,false,,,,,,,,,,,,,3531375,,,,,,3 531 375,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2019,false,,,,,,,,,,,,,3733346,,,,,,3 733 346,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2019,false,,,,,,,,,,,,,3958782,,,,,,3 958 782,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2019,false,,,,,,,,,,,,,32067354,,,,,,32 067 354,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2019,false,,,,,,,,,,,,,34866,,,,,,34 866,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2019,false,,,,,,,,,,,,,4169146,,,,,,4 169 146,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2019,false,,,,,,,,,,,,,4743338,,,,,,4 743 338,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2019,false,,,,,,,,,,,,,497916,,,,,,497 916,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2019,false,,,,,,,,,,,,,5232430,,,,,,5 232 430,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2019,false,,,,,,,,,,,,,594237,,,,,,594 237,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2019,false,,,,,,,,,,,,,6214192,,,,,,6 214 192,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2019,false,,,,,,,,,,,,,602947,,,,,,602 947,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2019,false,,,,,,,,,,,,,8280575,,,,,,8 280 575,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2019,false,,,,,,,,,,,,,8829176,,,,,,8 829 176,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2019,false,,,,,,,,,,,,,8911133,,,,,,8 911 133,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2019,false,,,,,,,,,,,,,94656,,,,,,94 656,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2018,false,,,,,,,,,,,,,1022022,,,,,,1 022 022,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2018,false,,,,,,,,,,,,,1293392,,,,,,1 293 392,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2018,false,,,,,,,,,,,,,1367986,,,,,,1 367 986,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2018,false,,,,,,,,,,,,,1941489,,,,,,1 941 489,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2018,false,,,,,,,,,,,,,10055407,,,,,,10 055 407,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2018,false,,,,,,,,,,,,,10285,,,,,,10 285,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2018,false,,,,,,,,,,,,,10870446,,,,,,10 870 446,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2018,false,,,,,,,,,,,,,11513684,,,,,,11 513 684,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2018,false,,,,,,,,,,,,,13979,,,,,,13 979,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2018,false,,,,,,,,,,,,,14931136,,,,,,14 931 136,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2018,false,,,,,,,,,,,,,15542218,,,,,,15 542 218,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2018,false,,,,,,,,,,,,,17111650,,,,,,17 111 650,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2018,false,,,,,,,,,,,,,18435472,,,,,,18 435 472,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2018,false,,,,,,,,,,,,,18791446,,,,,,18 791 446,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2018,false,,,,,,,,,,,,,2096124,,,,,,2 096 124,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2018,false,,,,,,,,,,,,,2439906,,,,,,2 439 906,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2018,false,,,,,,,,,,,,,2608481,,,,,,2 608 481,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2018,false,,,,,,,,,,,,,2880743,,,,,,2 880 743,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2018,false,,,,,,,,,,,,,2895596,,,,,,2 895 596,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2018,false,,,,,,,,,,,,,22784288,,,,,,22 784 288,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2018,false,,,,,,,,,,,,,23833694,,,,,,23 833 694,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2018,false,,,,,,,,,,,,,25381459,,,,,,25 381 459,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2018,false,,,,,,,,,,,,,3009800,,,,,,3 009 800,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2018,false,,,,,,,,,,,,,3725896,,,,,,3 725 896,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2018,false,,,,,,,,,,,,,385729,,,,,,385 729,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2018,false,,,,,,,,,,,,,394822,,,,,,394 822,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2018,false,,,,,,,,,,,,,4810919,,,,,,4 810 919,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2018,false,,,,,,,,,,,,,43533,,,,,,43 533,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2018,false,,,,,,,,,,,,,469640,,,,,,469 640,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2018,false,,,,,,,,,,,,,5036256,,,,,,5 036 256,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2018,false,,,,,,,,,,,,,6706148,,,,,,6 706 148,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2018,false,,,,,,,,,,,,,706868,,,,,,706 868,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2018,false,,,,,,,,,,,,,8734322,,,,,,8 734 322,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2018,false,,,,,,,,,,,,,9666424,,,,,,9 666 424,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2017,false,,,,,,,,,,,,,1533258,,,,,,1 533 258,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2017,false,,,,,,,,,,,,,1828301,,,,,,1 828 301,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2017,false,,,,,,,,,,,,,10530601,,,,,,10 530 601,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2017,false,,,,,,,,,,,,,10952323,,,,,,10 952 323,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2017,false,,,,,,,,,,,,,11050353,,,,,,11 050 353,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2017,false,,,,,,,,,,,,,11186029,,,,,,11 186 029,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2017,false,,,,,,,,,,,,,12605,,,,,,12 605,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2017,false,,,,,,,,,,,,,13956707,,,,,,13 956 707,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2017,false,,,,,,,,,,,,,14811872,,,,,,14 811 872,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2017,false,,,,,,,,,,,,,15362146,,,,,,15 362 146,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2017,false,,,,,,,,,,,,,17463976,,,,,,17 463 976,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2017,false,,,,,,,,,,,,,19069870,,,,,,19 069 870,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2017,false,,,,,,,,,,,,,2034027,,,,,,2 034 027,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2017,false,,,,,,,,,,,,,2035693,,,,,,2 035 693,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2017,false,,,,,,,,,,,,,2134543,,,,,,2 134 543,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2017,false,,,,,,,,,,,,,2610069,,,,,,2 610 069,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2017,false,,,,,,,,,,,,,2705456,,,,,,2 705 456,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2017,false,,,,,,,,,,,,,2747984,,,,,,2 747 984,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2017,false,,,,,,,,,,,,,2935447,,,,,,2 935 447,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2017,false,,,,,,,,,,,,,2943595,,,,,,2 943 595,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2017,false,,,,,,,,,,,,,20276522,,,,,,20 276 522,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2017,false,,,,,,,,,,,,,212092,,,,,,212 092,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2017,false,,,,,,,,,,,,,22319643,,,,,,22 319 643,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2017,false,,,,,,,,,,,,,23195284,,,,,,23 195 284,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2017,false,,,,,,,,,,,,,25106551,,,,,,25 106 551,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2017,false,,,,,,,,,,,,,3624885,,,,,,3 624 885,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2017,false,,,,,,,,,,,,,3212,,,,,,3212,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2017,false,,,,,,,,,,,,,322916,,,,,,322 916,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2017,false,,,,,,,,,,,,,4013178,,,,,,4 013 178,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2017,false,,,,,,,,,,,,,498879,,,,,,498 879,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2017,false,,,,,,,,,,,,,5098975,,,,,,5 098 975,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2017,false,,,,,,,,,,,,,616513,,,,,,616 513,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2017,false,,,,,,,,,,,,,656212,,,,,,656 212,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2017,false,,,,,,,,,,,,,7262684,,,,,,7 262 684,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2017,false,,,,,,,,,,,,,91217,,,,,,91 217,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2016,false,,,,,,,,,,,,,1499675,,,,,,1 499 675,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2016,false,,,,,,,,,,,,,1503035,,,,,,1 503 035,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2016,false,,,,,,,,,,,,,1559054,,,,,,1 559 054,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2016,false,,,,,,,,,,,,,12006793,,,,,,12 006 793,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2016,false,,,,,,,,,,,,,12986,,,,,,12 986,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SWZ,Eswatini,Year,2016,false,,,,,,,,,,,,,1249,,,,,,1249,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2016,false,,,,,,,,,,,,,13022128,,,,,,13 022 128,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2016,false,,,,,,,,,,,,,15742112,,,,,,15 742 112,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2016,false,,,,,,,,,,,,,16290286,,,,,,16 290 286,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2016,false,,,,,,,,,,,,,17490954,,,,,,17 490 954,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2016,false,,,,,,,,,,,,,17881657,,,,,,17 881 657,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2016,false,,,,,,,,,,,,,2032301,,,,,,2 032 301,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2016,false,,,,,,,,,,,,,2095095,,,,,,2 095 095,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2016,false,,,,,,,,,,,,,2184524,,,,,,2 184 524,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2016,false,,,,,,,,,,,,,2567451,,,,,,2 567 451,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2016,false,,,,,,,,,,,,,2577029,,,,,,2 577 029,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2016,false,,,,,,,,,,,,,2996959,,,,,,2 996 959,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2016,false,,,,,,,,,,,,,202989,,,,,,202 989,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2016,false,,,,,,,,,,,,,23443227,,,,,,23 443 227,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2016,false,,,,,,,,,,,,,27257784,,,,,,27 257 784,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2016,false,,,,,,,,,,,,,29113322,,,,,,29 113 322,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2016,false,,,,,,,,,,,,,3105390,,,,,,3 105 390,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2016,false,,,,,,,,,,,,,3778535,,,,,,3 778 535,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2016,false,,,,,,,,,,,,,308414,,,,,,308 414,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2016,false,,,,,,,,,,,,,318779,,,,,,318 779,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2016,false,,,,,,,,,,,,,398429,,,,,,398 429,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2016,false,,,,,,,,,,,,,4665318,,,,,,4 665 318,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2016,false,,,,,,,,,,,,,466254,,,,,,466 254,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2016,false,,,,,,,,,,,,,5560136,,,,,,5 560 136,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2016,false,,,,,,,,,,,,,7347200,,,,,,7 347 200,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2016,false,,,,,,,,,,,,,7502174,,,,,,7 502 174,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2016,false,,,,,,,,,,,,,7649902,,,,,,7 649 902,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2016,false,,,,,,,,,,,,,874690,,,,,,874 690,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2016,false,,,,,,,,,,,,,9239462,,,,,,9 239 462,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2016,false,,,,,,,,,,,,,9627862,,,,,,9 627 862,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CAF,Central African Republic,Year,2015,false,,,,,,,,,,,,,1218246,,,,,,1 218 246,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GIN,Guinea,Year,2015,false,,,,,,,,,,,,,1254937,,,,,,1 254 937,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SEN,Senegal,Year,2015,false,,,,,,,,,,,,,1421221,,,,,,1 421 221,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TCD,Chad,Year,2015,false,,,,,,,,,,,,,1641285,,,,,,1 641 285,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZWE,Zimbabwe,Year,2015,false,,,,,,,,,,,,,1693630,,,,,,1 693 630,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BWA,Botswana,Year,2015,false,,,,,,,,,,,,,1298,,,,,,1298,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MOZ,Mozambique,Year,2015,false,,,,,,,,,,,,,15057398,,,,,,15 057 398,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GHA,Ghana,Year,2015,false,,,,,,,,,,,,,15946366,,,,,,15 946 366,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,KEN,Kenya,Year,2015,false,,,,,,,,,,,,,16037285,,,,,,16 037 285,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COD,Democratic Republic of the Congo,Year,2015,false,,,,,,,,,,,,,17617219,,,,,,17 617 219,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,SLE,Sierra Leone,Year,2015,false,,,,,,,,,,,,,2337297,,,,,,2 337 297,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TGO,Togo,Year,2015,false,,,,,,,,,,,,,2356048,,,,,,2 356 048,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MDG,Madagascar,Year,2015,false,,,,,,,,,,,,,2386641,,,,,,2 386 641,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,LBR,Liberia,Year,2015,false,,,,,,,,,,,,,2403783,,,,,,2 403 783,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BEN,Benin,Year,2015,false,,,,,,,,,,,,,2733611,,,,,,2 733 611,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NGA,Nigeria,Year,2015,false,,,,,,,,,,,,,20243915,,,,,,20 243 915,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,TZA,United Republic of Tanzania,Year,2015,false,,,,,,,,,,,,,20829480,,,,,,20 829 480,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NAM,Namibia,Year,2015,false,,,,,,,,,,,,,207612,,,,,,207 612,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,UGA,Uganda,Year,2015,false,,,,,,,,,,,,,22952246,,,,,,22 952 246,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GAB,Gabon,Year,2015,false,,,,,,,,,,,,,285489,,,,,,285 489,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CMR,Cameroon,Year,2015,false,,,,,,,,,,,,,3378923,,,,,,3 378 923,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,COG,Congo,Year,2015,false,,,,,,,,,,,,,300592,,,,,,300 592,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,NER,Niger,Year,2015,false,,,,,,,,,,,,,4671411,,,,,,4 671 411,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MLI,Mali,Year,2015,false,,,,,,,,,,,,,4692412,,,,,,4 692 412,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNB,Guinea-Bissau,Year,2015,false,,,,,,,,,,,,,413727,,,,,,413 727,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,CIV,Cote d'Ivoire,Year,2015,false,,,,,,,,,,,,,5216344,,,,,,5 216 344,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,RWA,Rwanda,Year,2015,false,,,,,,,,,,,,,6093114,,,,,,6 093 114,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,AGO,Angola,Year,2015,false,,,,,,,,,,,,,6839963,,,,,,6 839 963,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GNQ,Equatorial Guinea,Year,2015,false,,,,,,,,,,,,,68058,,,,,,68 058,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,ZMB,Zambia,Year,2015,false,,,,,,,,,,,,,8116962,,,,,,8 116 962,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,MWI,Malawi,Year,2015,false,,,,,,,,,,,,,8518905,,,,,,8 518 905,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BDI,Burundi,Year,2015,false,,,,,,,,,,,,,8761333,,,,,,8 761 333,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,BFA,Burkina Faso,Year,2015,false,,,,,,,,,,,,,9783385,,,,,,9 783 385,,,EN,2025-12-18T21:00:00.000Z
+MALARIA_SUSPECTS,Number of suspected malaria cases,numeric,AFR,Africa,Country,GMB,Gambia,Year,2015,false,,,,,,,,,,,,,908082,,,,,,908 082,,,EN,2025-12-18T21:00:00.000Z

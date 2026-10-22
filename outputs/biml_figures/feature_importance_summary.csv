@@ -1,0 +1,15 @@
+Feature,Group,Importance
+Incidence_t_minus_1,Historical,0.3882736417298706
+NDVI_mean,Environmental,0.14192629706944415
+B2_competence_supported_mean,Biological,0.08045561291709297
+Landsat_LST_C_mean,Environmental,0.07578791121031339
+Incidence_Change_t,Historical,0.06483700951321328
+NDWI_mean,Environmental,0.057380746788762864
+MODIS_Night_LST_C_mean,Environmental,0.05073232599359787
+Incidence_t,Historical,0.045637256764563726
+B2_index_supported_mean,Biological,0.02995045839978177
+RH_pct_mean,Environmental,0.024819476720829566
+Rainfall_total_mm,Environmental,0.020810349250327122
+ERA5_T2M_C_mean,Environmental,0.018670068827602842
+B2_supported_months,Other,0.0007188448145998744
+History_Missing,Historical,0.0

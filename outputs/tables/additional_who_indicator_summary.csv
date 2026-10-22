@@ -1,0 +1,5 @@
+indicator,available_rows,coverage_pct,countries_with_data,min,median,max,negative_values
+treatment,183,63.1,29,7083.0,2813086.0,30003155.0,0
+confirmed,276,95.17,28,8962.0,2684121.0,29825871.0,0
+suspected,286,98.62,29,43533.0,4796924.0,49382922.0,0
+irs,133,45.86,20,43218.0,1104928.0,14684925.0,0
