@@ -1,0 +1,6 @@
+Configuration,Mean_RMSE
+Conventional GB,24.7717
+Competence only,24.6736
+B2 index only,24.8349
+BIML-Reduced,24.6631
+BIML-Full,24.6972
